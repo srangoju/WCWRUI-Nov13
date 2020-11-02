@@ -1,0 +1,18 @@
+{
+	"addNewRole": "./Tests/Admin/UC_AD_24/AddNewRoleTest.js",
+	"createCourt": "./Tests/Admin/UC_AD_06/CreateCourtTest.js",
+	"deleteCourt": "./Tests/Admin/UC_AD_06/DeleteCourtTest.js",
+	"updateCourt": "./Tests/Admin/UC_AD_06/UpdateCourtTest.js",
+	"rejectReason":"./Tests/Admin/UC_AD_19_P/RejectReasonTest.js",
+	"updateExistingUser":"./Tests/Admin/UC_AD_04/AdminUpdateExistingUserTest.js",
+	"addCaseType": "./Tests/Admin/UC_AD_10/adminAddsCaseTypeTest.js",
+	"updateCaseType": "./Tests/Admin/UC_AD_11/adminUpdateCaseTypeTest.js",
+	"validations": "./Tests/Admin/UC_AD_24/ValidationTest.js",
+    "updateRole": "./Tests/Admin/UC_AD_24/UpdateRoleTest.js",
+    "addKnos": "./Tests/Admin/UC_AD_16/AddNewKNOSTest.js",
+    "deleteKnos": "./Tests/Admin/UC_AD_18/DeleteKNOSTest.js",
+    "updateKnos": "./Tests/Admin/UC_AD_17/UpdateKNOSTest.js",
+    "addCaseSubType": "./Tests/Admin/UC_AD_13_P/adminAddsCaseSubTypeTest.js",
+    "deleteUser": "./Tests/Admin/UC_AD_05_P/AdminDeletesExistingUserTest.js"
+    
+}

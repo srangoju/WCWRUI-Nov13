@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601916414663' stop='1601916417782'>
+    <name>Update Case Type</name>
+    <title>Update Case Type</title>
+    <test-cases>
+        <test-case start='1601916414663' status='passed' stop='1601916417756'>
+            <name>AdminUpdateCaseTypeTest1 - It should Update Case Type</name>
+            <title>AdminUpdateCaseTypeTest1 - It should Update Case Type</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='28dfd7d8-10cf-429d-a72a-45cdc915cd33-attachment.png' type='image/png' size='34835'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

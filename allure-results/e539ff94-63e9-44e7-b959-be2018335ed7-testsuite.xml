@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601917613610' stop='1601917620696'>
+    <name>Reject Reason</name>
+    <title>Reject Reason</title>
+    <test-cases>
+        <test-case start='1601917613610' status='passed' stop='1601917615870'>
+            <name>rejectReasonTest - Add Reject Reason without reason name</name>
+            <title>rejectReasonTest - Add Reject Reason without reason name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ffb87988-0126-4eb6-a325-66fd95c14c57-attachment.png' type='image/png' size='36954'/>
+            </attachments>
+        </test-case>
+        <test-case start='1601917615870' status='passed' stop='1601917618307'>
+            <name>RejectReasonTest - It should Add Reject Reason!</name>
+            <title>RejectReasonTest - It should Add Reject Reason!</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='98e76f39-c455-464d-8e69-1b130fcfa926-attachment.png' type='image/png' size='31777'/>
+            </attachments>
+        </test-case>
+        <test-case start='1601917618307' status='passed' stop='1601917620665'>
+            <name>RejectReasonTest - It should delete a random  Reason Name</name>
+            <title>RejectReasonTest - It should delete a random  Reason Name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='50d0cb65-ac68-4b47-97db-97d7d0b67f5e-attachment.png' type='image/png' size='31473'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

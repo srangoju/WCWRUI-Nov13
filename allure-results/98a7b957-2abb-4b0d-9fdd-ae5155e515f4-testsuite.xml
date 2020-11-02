@@ -1,0 +1,84 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601893534233' stop='1601893595199'>
+    <name>Update KNOS Relationship</name>
+    <title>Update KNOS Relationship</title>
+    <test-cases>
+        <test-case start='1601893534235' status='passed' stop='1601893592382'>
+            <name>Login - It should login to WCWR home page!</name>
+            <title>Login - It should login to WCWR home page!</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0d4e4e75-4606-497d-9f4e-42b1b6bde6d1-attachment.png' type='image/png' size='30879'/>
+            </attachments>
+        </test-case>
+        <test-case start='1601893592382' status='failed' stop='1601893595196'>
+            <name>UpdateKNOS Association - It should Update KNOS Association!</name>
+            <title>UpdateKNOS Association - It should Update KNOS Association!</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f6c93bac-de12-476c-ba51-bf137cada313-attachment.png' type='image/png' size='43689'/>
+            </attachments>
+            <failure>
+                <message>Failed: Element &lt;option class="ng-star-inserted"> could not be scrolled into view
+                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+                Driver info: driver.version: unknown</message>
+                <stack-trace>WebDriverError: Element &lt;option class="ng-star-inserted"> could not be scrolled into view
+                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+                Driver info: driver.version: unknown
+                    at Object.checkLegacyResponse (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:546:15)
+                    at parseHttpResponse (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:509:13)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:441:30
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+                From: Task: WebElement.click()
+                    at thenableWebDriverProxy.schedule (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:807:17)
+                    at WebElement.schedule_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:2010:25)
+                    at WebElement.click (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:2092:17)
+                    at actionFn (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\built\element.js:89:44)
+                    at Array.map (&lt;anonymous>)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\built\element.js:461:65
+                    at ManagedPromise.invokeCallback_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27Error
+                    at ElementArrayFinder.applyAction_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\built\element.js:459:27)
+                    at ElementArrayFinder.&lt;computed> [as click] (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\built\element.js:91:29)
+                    at ElementFinder.&lt;computed> [as click] (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\built\element.js:831:22)
+                    at UserContext.&lt;anonymous> (C:\Users\UX013810\workspace\WCWRUI\Tests\Admin\UC_AD_17\UpdateKNOSTest.js:33:31)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                From: Task: Run it("UpdateKNOS Association - It should Update KNOS Association!") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4264:13
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4172:9
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:64:48
+                    at ControlFlow.emit (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\events.js:62:21)
+                    at ControlFlow.shutdown_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2674:10)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2599:53
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (C:\Users\UX013810\workspace\WCWRUI\Tests\Admin\UC_AD_17\UpdateKNOSTest.js:29:2)
+                    at addSpecsToSuite (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (C:\Users\UX013810\workspace\WCWRUI\Tests\Admin\UC_AD_17\UpdateKNOSTest.js:8:1)
+                    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+                    at Module.load (internal/modules/cjs/loader.js:985:32)
+                    at Function.Module._load (internal/modules/cjs/loader.js:878:14)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601910920039' stop='1601910979159'>
+    <name>Update KNOS Relationship</name>
+    <title>Update KNOS Relationship</title>
+    <test-cases>
+        <test-case start='1601910920039' status='passed' stop='1601910978943'>
+            <name>UpdateKNOS Association - It should Update KNOS Association!</name>
+            <title>UpdateKNOS Association - It should Update KNOS Association!</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b35205c8-9104-4df9-9c32-84082d4cea48-attachment.png' type='image/png' size='48799'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

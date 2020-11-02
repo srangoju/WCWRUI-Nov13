@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601915606243' stop='1601915613327'>
+    <name>Users</name>
+    <title>Users</title>
+    <test-cases>
+        <test-case start='1601915606243' status='passed' stop='1601915613311'>
+            <name>AdminUpdateExistingUserTest - It should Update existing Admin User</name>
+            <title>AdminUpdateExistingUserTest - It should Update existing Admin User</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bec635d9-74aa-4f88-8ade-e84a11af896c-attachment.png' type='image/png' size='58727'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

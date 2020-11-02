@@ -1,0 +1,30 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601915585639' stop='1601915592104'>
+    <name>Add Court</name>
+    <title>Add Court</title>
+    <test-cases>
+        <test-case start='1601915585639' status='failed' stop='1601915592104'>
+            <name>CreateCourtTest - IT should create new court</name>
+            <title>CreateCourtTest - IT should create new court</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6009116a-57b6-426e-ac2f-c212ca666674-attachment.png' type='image/png' size='51173'/>
+            </attachments>
+            <failure>
+                <message>Expected 'Court details updated successfully' to equal 'New court has been created successfully'.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (C:\Users\UX013810\workspace\WCWRUI\Tests\Admin\UC_AD_06\CreateCourtTest.js:60:66)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

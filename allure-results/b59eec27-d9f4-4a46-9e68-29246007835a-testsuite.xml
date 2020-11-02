@@ -1,0 +1,85 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601913658544' stop='1601913665799'>
+    <name>Delete KNOS Relationship</name>
+    <title>Delete KNOS Relationship</title>
+    <test-cases>
+        <test-case start='1601913658544' status='failed' stop='1601913659448'>
+            <name>DeleteKNOS Association - It should Delete KNOS Association!</name>
+            <title>DeleteKNOS Association - It should Delete KNOS Association!</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2b0e44e9-f869-45ce-887c-c3db8cc55916-attachment.png' type='image/png' size='24708'/>
+            </attachments>
+            <failure>
+                <message>Failed: Element &lt;div class="wj-elem-filter"> is not clickable at point (648,80) because another element &lt;div class="bento-busyloader-inner"> obscures it
+                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+                Driver info: driver.version: unknown</message>
+                <stack-trace>WebDriverError: Element &lt;div class="wj-elem-filter"> is not clickable at point (648,80) because another element &lt;div class="bento-busyloader-inner"> obscures it
+                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+                Driver info: driver.version: unknown
+                    at Object.checkLegacyResponse (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:546:15)
+                    at parseHttpResponse (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:509:13)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:441:30
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+                From: Task: WebElement.click()
+                    at thenableWebDriverProxy.schedule (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:807:17)
+                    at WebElement.schedule_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:2010:25)
+                    at WebElement.click (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:2092:17)
+                    at actionFn (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\built\element.js:89:44)
+                    at Array.map (&lt;anonymous>)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\built\element.js:461:65
+                    at ManagedPromise.invokeCallback_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27Error
+                    at ElementArrayFinder.applyAction_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\built\element.js:459:27)
+                    at ElementArrayFinder.&lt;computed> [as click] (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\built\element.js:91:29)
+                    at ElementFinder.&lt;computed> [as click] (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\built\element.js:831:22)
+                    at UserContext.&lt;anonymous> (C:\Users\UX013810\workspace\WCWRUI\Tests\Admin\UC_AD_18\DeleteKNOSTest.js:16:39)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                From: Task: Run it("DeleteKNOS Association - It should Delete KNOS Association!") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4264:13
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4172:9
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:64:48
+                    at ControlFlow.emit (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\events.js:62:21)
+                    at ControlFlow.shutdown_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2674:10)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2599:53
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (C:\Users\UX013810\workspace\WCWRUI\Tests\Admin\UC_AD_18\DeleteKNOSTest.js:12:2)
+                    at addSpecsToSuite (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (C:\Users\UX013810\workspace\WCWRUI\Tests\Admin\UC_AD_18\DeleteKNOSTest.js:9:1)
+                    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+                    at Module.load (internal/modules/cjs/loader.js:985:32)
+                    at Function.Module._load (internal/modules/cjs/loader.js:878:14)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1601913659448' status='passed' stop='1601913665781'>
+            <name>DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down</name>
+            <title>DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4a69f31c-a959-4d7c-918d-353d6e19d89c-attachment.png' type='image/png' size='57154'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

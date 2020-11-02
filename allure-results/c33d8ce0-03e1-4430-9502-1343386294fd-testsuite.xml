@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601896045770' stop='1601896114482'>
+    <name>Update KNOS Relationship</name>
+    <title>Update KNOS Relationship</title>
+    <test-cases>
+        <test-case start='1601896045770' status='passed' stop='1601896103963'>
+            <name>Login - It should login to WCWR home page!</name>
+            <title>Login - It should login to WCWR home page!</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='917c6e33-50ad-4279-81d0-88e9fc78450b-attachment.png' type='image/png' size='30745'/>
+            </attachments>
+        </test-case>
+        <test-case start='1601896103963' status='passed' stop='1601896114462'>
+            <name>UpdateKNOS Association - It should Update KNOS Association!</name>
+            <title>UpdateKNOS Association - It should Update KNOS Association!</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='19b6e3b0-cc55-4ced-962b-1e3fe56814de-attachment.png' type='image/png' size='48799'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
