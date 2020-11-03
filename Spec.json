@@ -1,18 +1,24 @@
 {
-	"addNewRole": "./Tests/Admin/UC_AD_24/AddNewRoleTest.js",
-	"createCourt": "./Tests/Admin/UC_AD_06/CreateCourtTest.js",
-	"deleteCourt": "./Tests/Admin/UC_AD_06/DeleteCourtTest.js",
-	"updateCourt": "./Tests/Admin/UC_AD_06/UpdateCourtTest.js",
-	"rejectReason":"./Tests/Admin/UC_AD_19_P/RejectReasonTest.js",
-	"updateExistingUser":"./Tests/Admin/UC_AD_04/AdminUpdateExistingUserTest.js",
-	"addCaseType": "./Tests/Admin/UC_AD_10/adminAddsCaseTypeTest.js",
-	"updateCaseType": "./Tests/Admin/UC_AD_11/adminUpdateCaseTypeTest.js",
-	"validations": "./Tests/Admin/UC_AD_24/ValidationTest.js",
-    "updateRole": "./Tests/Admin/UC_AD_24/UpdateRoleTest.js",
-    "addKnos": "./Tests/Admin/UC_AD_16/AddNewKNOSTest.js",
-    "deleteKnos": "./Tests/Admin/UC_AD_18/DeleteKNOSTest.js",
-    "updateKnos": "./Tests/Admin/UC_AD_17/UpdateKNOSTest.js",
-    "addCaseSubType": "./Tests/Admin/UC_AD_13_P/adminAddsCaseSubTypeTest.js",
-    "deleteUser": "./Tests/Admin/UC_AD_05_P/AdminDeletesExistingUserTest.js"
+	"updateExistingUser": "./Tests/Admin/UC_AD_04_Update_Existing_User/AdminUpdateExistingUserTest.js",
+	"deleteUser": "./Tests/Admin/UC_AD_05_Deletes_Existing_User/AdminDeletesExistingUserTest.js",
+	"createCourt": "./Tests/Admin/UC_AD_06_Add_New_Court/CreateCourtTest.js",
+	"deleteCourt": "./Tests/Admin/UC_AD_08_Delete_Court/DeleteCourtTest.js",
+	"updateCourt": "./Tests/Admin/UC_AD_07_Update_Court/UpdateCourtTest.js",
+	"addCaseType": "./Tests/Admin/UC_AD_10_Add_New_CaseType/adminAddsCaseTypeTest.js",
+	"updateCaseType": "./Tests/Admin/UC_AD_11_Update_CaseType/adminUpdateCaseTypeTest.js",
+	"deleteCaseType": "./Tests/Admin/UC_AD_12_Delete_CaseType/adminDeleteCaseTYpeTest.js",
+	"addCaseSubType": "./Tests/Admin/UC_AD_13_Add_New_Case_Subtype/adminAddsCaseSubTypeTest.js",
+	
+	"updateCaseSubType": "./Tests/Admin/UC_AD_14_Update_Case_Subtype/updateCaseSubTypeTest.js",
+	"deleteCaseSubType": "./Tests/Admin/UC_AD_15_Deletes_Case_Subtype/deleteCaseSubTypeTest.js",
+	
+    "addKnos": "./Tests/Admin/UC_AD_16_Adds_KNOS_Case_Association/AddNewKNOSTest.js",
+    "deleteKnos": "./Tests/Admin/UC_AD_18_Deletes_KNOS_Code_Association/DeleteKNOSTest.js",
+    "updateKnos": "./Tests/Admin/UC_AD_17_View_KNOS_Code_Association/UpdateKNOSTest.js",
+	"rejectReason":"./Tests/Admin/UC_AD_19_Reject_Reason/RejectReasonTest.js",
+	"addNewRole":"./Tests/Admin/UC_AD_24_Roles/AddNewRoleTest.js",
+    "updateRole": "./Tests/Admin/UC_AD_24_Roles/UpdateRoleTest.js",
+	"validations": "./Tests/Admin/UC_AD_24_Roles/ValidationTest.js"
+    
     
 }

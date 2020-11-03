@@ -7,6 +7,7 @@ const EC = protractor.ExpectedConditions;
 
 describe('Add CaseType', function () {
 	
+loginDetails.loginToWCWR();
 
 it('AdminAddsCaseTypeTest - It should Add New Case Type without Entering value', function(){
 	   

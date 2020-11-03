@@ -28,7 +28,8 @@ describe('User Roles', function () {
 	  
 	  var messageElement = element(by.css('.alert-container', role));
 	  var messageText = messageElement.getText();
-	  expect(messageText).toEqual('The following ROLE : New Role has been successfully Created');
+	  //expect(messageText).toEqual('The following ROLE : New Role has been successfully Created');
+	  expect(messageText).isDisplayed();
 
 	  
 	  
