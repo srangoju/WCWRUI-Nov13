@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1605160595003' stop='1605160619870'>
+    <name>Reject Reason</name>
+    <title>Reject Reason</title>
+    <test-cases>
+        <test-case start='1605160595003' status='passed' stop='1605160599946'>
+            <name>rejectReasonTest - Add Reject Reason without reason name</name>
+            <title>rejectReasonTest - Add Reject Reason without reason name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8f56ae4a-b470-4d81-91af-d9c9e2a9da6b-attachment.png' type='image/png' size='31066'/>
+            </attachments>
+        </test-case>
+        <test-case start='1605160599946' status='passed' stop='1605160607322'>
+            <name>RejectReasonTest - It should Add Reject Reason!</name>
+            <title>RejectReasonTest - It should Add Reject Reason!</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='c737581d-c757-43d9-93d7-3224869f612c-attachment.png' type='image/png' size='25594'/>
+            </attachments>
+        </test-case>
+        <test-case start='1605160607322' status='passed' stop='1605160613655'>
+            <name>RejectReasonTest - It should update a Reject reason  Name</name>
+            <title>RejectReasonTest - It should update a Reject reason  Name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='66e9d990-03d4-4b00-a351-deb7ef1d1692-attachment.png' type='image/png' size='27010'/>
+            </attachments>
+        </test-case>
+        <test-case start='1605160613655' status='passed' stop='1605160619854'>
+            <name>RejectReasonTest - It should delete a random  Reason Name</name>
+            <title>RejectReasonTest - It should delete a random  Reason Name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5571e24a-8d2e-417e-8722-4babbeb34312-attachment.png' type='image/png' size='26445'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

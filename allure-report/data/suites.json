@@ -1,5 +1,532 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Update Court",
+    "children" : [ {
+      "name" : "UpdateCourt - It should Update the Court Information!",
+      "uid" : "cafb27591b95cf96",
+      "parentUid" : "7b2c7605207deff422f8e7b79976b3d7",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605113887401,
+        "stop" : 1605113934173,
+        "duration" : 46772
+      },
+      "flaky" : false,
+      "newFailed" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "updateCourt - It should Update the Court Information!",
+      "uid" : "4a6f1f94d2cb6b6e",
+      "parentUid" : "7b2c7605207deff422f8e7b79976b3d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160501088,
+        "stop" : 1605160523994,
+        "duration" : 22906
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7b2c7605207deff422f8e7b79976b3d7"
+  }, {
+    "name" : "Users",
+    "children" : [ {
+      "name" : "Admin - It should add adminUser",
+      "uid" : "c8062bca4cb69e8a",
+      "parentUid" : "4b55247c12236e6a574fc40842be88a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160311862,
+        "stop" : 1605160364451,
+        "duration" : 52589
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Case Manager - It should add casemanager",
+      "uid" : "919687de36493b6b",
+      "parentUid" : "4b55247c12236e6a574fc40842be88a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160364451,
+        "stop" : 1605160393927,
+        "duration" : 29476
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "AdminUpdateExistingUserTest - It should Update existing Admin User",
+      "uid" : "e6995860b8dbc7a9",
+      "parentUid" : "4b55247c12236e6a574fc40842be88a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160393942,
+        "stop" : 1605160411254,
+        "duration" : 17312
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "AdminUpdateExistingUserTest - It should Update existing Case Manager",
+      "uid" : "33db73b31637987e",
+      "parentUid" : "4b55247c12236e6a574fc40842be88a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160411254,
+        "stop" : 1605160431761,
+        "duration" : 20507
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4b55247c12236e6a574fc40842be88a5"
+  }, {
+    "name" : "Delete User",
+    "children" : [ {
+      "name" : "DeleteUserTest - It should make a user active/inactive",
+      "uid" : "eea1e714881388c8",
+      "parentUid" : "f2338803b010704621b9831371e7fa3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160431777,
+        "stop" : 1605160446512,
+        "duration" : 14735
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f2338803b010704621b9831371e7fa3b"
+  }, {
+    "name" : "Create New State Court",
+    "children" : [ {
+      "name" : "createStateCourtTest - IT should create new State court",
+      "uid" : "1759f2e2333f589b",
+      "parentUid" : "14223f682c5766743cd388a6bf32a92a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160446527,
+        "stop" : 1605160476580,
+        "duration" : 30053
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "14223f682c5766743cd388a6bf32a92a"
+  }, {
+    "name" : "Add Court",
+    "children" : [ {
+      "name" : "createFederalCourtTest - IT should create new Federal court",
+      "uid" : "aa595fb70e9fac9",
+      "parentUid" : "49d579c7021453886cfc269a43ceff03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160476595,
+        "stop" : 1605160501073,
+        "duration" : 24478
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "49d579c7021453886cfc269a43ceff03"
+  }, {
+    "name" : "Delete Court",
+    "children" : [ {
+      "name" : "DeleteCourt - It should Delete Court!",
+      "uid" : "c5e2663367cb84bb",
+      "parentUid" : "88b0ce1f2f22d26c53c376b9c19a026a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160524009,
+        "stop" : 1605160534497,
+        "duration" : 10488
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "88b0ce1f2f22d26c53c376b9c19a026a"
+  }, {
+    "name" : "User Roles",
+    "children" : [ {
+      "name" : "AddNewRoleTest - It should Add New Role!",
+      "uid" : "d2bbfa692b4e4cb1",
+      "parentUid" : "66f80b337f61d024dd51e408aafccf46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160534512,
+        "stop" : 1605160542015,
+        "duration" : 7503
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "UpdateRole - It should Update the User Role!",
+      "uid" : "f59453e037a94740",
+      "parentUid" : "66f80b337f61d024dd51e408aafccf46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160583103,
+        "stop" : 1605160594987,
+        "duration" : 11884
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "66f80b337f61d024dd51e408aafccf46"
+  }, {
+    "name" : "Validations for Add New Role",
+    "children" : [ {
+      "name" : "ValidationsTest - It should create new Role",
+      "uid" : "1d53c71df22b402",
+      "parentUid" : "3849cb14a068b596055faed064cd0007",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605160542015,
+        "stop" : 1605160552658,
+        "duration" : 10643
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "ValidationsTest - It should not create new role as role name is more thatn 20 characters",
+      "uid" : "afb99564b201ff7",
+      "parentUid" : "3849cb14a068b596055faed064cd0007",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605160552658,
+        "stop" : 1605160563312,
+        "duration" : 10654
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "ValidationsTest - It should not create new role as the description is more thatn 1000 characters",
+      "uid" : "94015b0acae6ed7e",
+      "parentUid" : "3849cb14a068b596055faed064cd0007",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605160563312,
+        "stop" : 1605160574369,
+        "duration" : 11057
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "ValidationsTest - It should not create new role as the role name contains special characters",
+      "uid" : "4c468ae162e50994",
+      "parentUid" : "3849cb14a068b596055faed064cd0007",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160574369,
+        "stop" : 1605160583103,
+        "duration" : 8734
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3849cb14a068b596055faed064cd0007"
+  }, {
+    "name" : "Reject Reason",
+    "children" : [ {
+      "name" : "rejectReasonTest - Add Reject Reason without reason name",
+      "uid" : "205e41e22b75515d",
+      "parentUid" : "9a2149d2c2692b30b6a2d3df70a2c831",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160595003,
+        "stop" : 1605160599946,
+        "duration" : 4943
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "RejectReasonTest - It should Add Reject Reason!",
+      "uid" : "95dbb50037b03651",
+      "parentUid" : "9a2149d2c2692b30b6a2d3df70a2c831",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160599946,
+        "stop" : 1605160607322,
+        "duration" : 7376
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "RejectReasonTest - It should update a Reject reason  Name",
+      "uid" : "bc6ca672a271f991",
+      "parentUid" : "9a2149d2c2692b30b6a2d3df70a2c831",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160607322,
+        "stop" : 1605160613655,
+        "duration" : 6333
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "RejectReasonTest - It should delete a random  Reason Name",
+      "uid" : "9b590405944630f6",
+      "parentUid" : "9a2149d2c2692b30b6a2d3df70a2c831",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160613655,
+        "stop" : 1605160619854,
+        "duration" : 6199
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9a2149d2c2692b30b6a2d3df70a2c831"
+  }, {
+    "name" : "Add KNOS Relationship",
+    "children" : [ {
+      "name" : "AddNewKNOS- It should add new casetype and subtype releationship to system!",
+      "uid" : "ecdf27d1b0a691e8",
+      "parentUid" : "4b8d09f14a06987f2c0fa2d1901f91b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160619870,
+        "stop" : 1605160629627,
+        "duration" : 9757
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Verify KNOS- Verifying relationship in Associate KNOS Codes drop down",
+      "uid" : "a2d1d74095054a9f",
+      "parentUid" : "4b8d09f14a06987f2c0fa2d1901f91b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160629627,
+        "stop" : 1605160645239,
+        "duration" : 15612
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "CancelKNOS- It should cancel adding new casetype and subtype releationship to system!",
+      "uid" : "46889341577ddd4",
+      "parentUid" : "4b8d09f14a06987f2c0fa2d1901f91b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160645239,
+        "stop" : 1605160652904,
+        "duration" : 7665
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4b8d09f14a06987f2c0fa2d1901f91b2"
+  }, {
+    "name" : "Update KNOS Relationship",
+    "children" : [ {
+      "name" : "UpdateKNOS Association - It should Update KNOS Association!",
+      "uid" : "3d129ab27706fd87",
+      "parentUid" : "56e1f017ea2876b4a581e6d040336aa0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160652920,
+        "stop" : 1605160660432,
+        "duration" : 7512
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "56e1f017ea2876b4a581e6d040336aa0"
+  }, {
+    "name" : "Delete KNOS Relationship",
+    "children" : [ {
+      "name" : "DeleteKNOS Association - It should Delete KNOS Association!",
+      "uid" : "548a2042c3ba717a",
+      "parentUid" : "eb04be58c2ecd7533a32725dcb601388",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160660444,
+        "stop" : 1605160668995,
+        "duration" : 8551
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down",
+      "uid" : "6a911252027f45e6",
+      "parentUid" : "eb04be58c2ecd7533a32725dcb601388",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160668995,
+        "stop" : 1605160684700,
+        "duration" : 15705
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "eb04be58c2ecd7533a32725dcb601388"
+  }, {
+    "name" : "Add CaseType",
+    "children" : [ {
+      "name" : "AdminAddsCaseTypeTest - It should Add New Case Type without Entering value",
+      "uid" : "29d7e56ebc4125c4",
+      "parentUid" : "2f7ef81c9d8b22f6249a3f995ad2afdb",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605160684707,
+        "stop" : 1605160684901,
+        "duration" : 194
+      },
+      "flaky" : false,
+      "newFailed" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "AdminAddsCaseTypeTest - It should Add New Case SubType",
+      "uid" : "d34672a5b24d554e",
+      "parentUid" : "2f7ef81c9d8b22f6249a3f995ad2afdb",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605160684901,
+        "stop" : 1605160685054,
+        "duration" : 153
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "AdminDeletesCaseTypeTest - It should delete a random  Type Name",
+      "uid" : "b026c1c2deb1f98d",
+      "parentUid" : "2f7ef81c9d8b22f6249a3f995ad2afdb",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605160685054,
+        "stop" : 1605160685208,
+        "duration" : 154
+      },
+      "flaky" : false,
+      "newFailed" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2f7ef81c9d8b22f6249a3f995ad2afdb"
+  }, {
+    "name" : "Update Case Type",
+    "children" : [ {
+      "name" : "AdminUpdateCaseTypeTest1 - It should Update Case Type",
+      "uid" : "49c4c88f58738ad6",
+      "parentUid" : "5f649cbb5752b50cda9be2ebfd53ebe1",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605160685223,
+        "stop" : 1605160685371,
+        "duration" : 148
+      },
+      "flaky" : false,
+      "newFailed" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5f649cbb5752b50cda9be2ebfd53ebe1"
+  }, {
+    "name" : "Delete CaseType",
+    "children" : [ {
+      "name" : "AdminDeletesCaseTypeTest - It should delete a random  Type Name",
+      "uid" : "2e1607b5c0f8b581",
+      "parentUid" : "3f934e6855948cb619c5deb306a018e1",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605160685371,
+        "stop" : 1605160685540,
+        "duration" : 169
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3f934e6855948cb619c5deb306a018e1"
+  }, {
+    "name" : "Add Case SubType",
+    "children" : [ {
+      "name" : "AdminAddsCaseSubTypeTest - It should Add New Case SubType without Entering value",
+      "uid" : "706368e458f8bff1",
+      "parentUid" : "3c39497fa177a31f4bb35a8b97fdff67",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605160685540,
+        "stop" : 1605160685709,
+        "duration" : 169
+      },
+      "flaky" : false,
+      "newFailed" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "AdminAddsCaseSubTypeTest - It should Add New Case SubType",
+      "uid" : "1456cbcc032f094a",
+      "parentUid" : "3c39497fa177a31f4bb35a8b97fdff67",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605160685709,
+        "stop" : 1605160685888,
+        "duration" : 179
+      },
+      "flaky" : false,
+      "newFailed" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3c39497fa177a31f4bb35a8b97fdff67"
+  }, {
+    "name" : "Admin Updates Case SubType",
+    "children" : [ {
+      "name" : "AdminUpdatesCaseSubType - It should update a Case sub type Name",
+      "uid" : "bd8f6c402a950924",
+      "parentUid" : "71640b5bfb1a1edf7966d4d4957df671",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605160685888,
+        "stop" : 1605160686041,
+        "duration" : 153
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "71640b5bfb1a1edf7966d4d4957df671"
+  }, {
+    "name" : "Delete Case SubType",
+    "children" : [ {
+      "name" : "AdminDeletesCaseSubTypeTest - It should delete a Case Subtype",
+      "uid" : "2f7c5e8a94ff5e56",
+      "parentUid" : "3e1960c469ec5fff935ff3fc1c039746",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605160686057,
+        "stop" : 1605160686188,
+        "duration" : 131
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3e1960c469ec5fff935ff3fc1c039746"
+  } ]
 }

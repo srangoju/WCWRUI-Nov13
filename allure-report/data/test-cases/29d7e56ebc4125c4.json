@@ -1,0 +1,142 @@
+{
+  "uid" : "29d7e56ebc4125c4",
+  "name" : "AdminAddsCaseTypeTest - It should Add New Case Type without Entering value",
+  "fullName" : "Add CaseType.AdminAddsCaseTypeTest - It should Add New Case Type without Entering value",
+  "historyId" : "5d0c5e7eb007c29717a24cc01eca5e3f",
+  "time" : {
+    "start" : 1605160684707,
+    "stop" : 1605160684901,
+    "duration" : 194
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: Element <i class=\"icon-case-type\"> is not clickable at point (76,425) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+  "statusTrace" : "WebDriverError: Element <i class=\"icon-case-type\"> is not clickable at point (76,425) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown\n                    at Object.checkLegacyResponse (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n                    at parseHttpResponse (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:441:30\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                From: Task: WebElement.click()\n                    at thenableWebDriverProxy.schedule (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n                    at WebElement.schedule_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2010:25)\n                    at WebElement.click (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2092:17)\n                    at actionFn (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:89:44)\n                    at Array.map (<anonymous>)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:461:65\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27Error\n                    at ElementArrayFinder.applyAction_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:459:27)\n                    at ElementArrayFinder.<computed> [as click] (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:91:29)\n                    at ElementFinder.<computed> [as click] (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:831:22)\n                    at UserContext.<anonymous> (C:\\Users\\X013810\\.jenkins\\WCWRUIAutomation\\WCWRUI\\Tests\\Admin\\UC_AD_10_Add_New_CaseType\\adminAddsCaseTypeTest.js:14:33)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                From: Task: Run it(\"AdminAddsCaseTypeTest - It should Add New Case Type without Entering value\") in control flow\n                    at UserContext.<anonymous> (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at QueueRunner.execute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4199:10)\n                    at Spec.queueRunnerFactory (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:909:35)\n                    at Spec.execute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:526:10)\n                    at UserContext.fn (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:5340:37)\n                    at attempt (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at QueueRunner.execute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4199:10)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (C:\\Users\\X013810\\.jenkins\\WCWRUIAutomation\\WCWRUI\\Tests\\Admin\\UC_AD_10_Add_New_CaseType\\adminAddsCaseTypeTest.js:12:1)\n                    at addSpecsToSuite (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (C:\\Users\\X013810\\.jenkins\\WCWRUIAutomation\\WCWRUI\\Tests\\Admin\\UC_AD_10_Add_New_CaseType\\adminAddsCaseTypeTest.js:8:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n                    at Module.load (internal/modules/cjs/loader.js:985:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:878:14)",
+  "flaky" : false,
+  "newFailed" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: Element <i class=\"icon-case-type\"> is not clickable at point (76,425) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+    "statusTrace" : "WebDriverError: Element <i class=\"icon-case-type\"> is not clickable at point (76,425) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown\n                    at Object.checkLegacyResponse (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\error.js:546:15)\n                    at parseHttpResponse (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\http.js:441:30\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                From: Task: WebElement.click()\n                    at thenableWebDriverProxy.schedule (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n                    at WebElement.schedule_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2010:25)\n                    at WebElement.click (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2092:17)\n                    at actionFn (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:89:44)\n                    at Array.map (<anonymous>)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:461:65\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27Error\n                    at ElementArrayFinder.applyAction_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:459:27)\n                    at ElementArrayFinder.<computed> [as click] (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:91:29)\n                    at ElementFinder.<computed> [as click] (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:831:22)\n                    at UserContext.<anonymous> (C:\\Users\\X013810\\.jenkins\\WCWRUIAutomation\\WCWRUI\\Tests\\Admin\\UC_AD_10_Add_New_CaseType\\adminAddsCaseTypeTest.js:14:33)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                From: Task: Run it(\"AdminAddsCaseTypeTest - It should Add New Case Type without Entering value\") in control flow\n                    at UserContext.<anonymous> (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at QueueRunner.execute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4199:10)\n                    at Spec.queueRunnerFactory (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:909:35)\n                    at Spec.execute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:526:10)\n                    at UserContext.fn (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:5340:37)\n                    at attempt (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at QueueRunner.execute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4199:10)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (C:\\Users\\X013810\\.jenkins\\WCWRUIAutomation\\WCWRUI\\Tests\\Admin\\UC_AD_10_Add_New_CaseType\\adminAddsCaseTypeTest.js:12:1)\n                    at addSpecsToSuite (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (C:\\Users\\X013810\\.jenkins\\WCWRUIAutomation\\WCWRUI\\Tests\\Admin\\UC_AD_10_Add_New_CaseType\\adminAddsCaseTypeTest.js:8:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n                    at Module.load (internal/modules/cjs/loader.js:985:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:878:14)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "767e50cff12c4112",
+      "name" : "Screenshot",
+      "source" : "767e50cff12c4112.png",
+      "type" : "image/png",
+      "size" : 58509
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add CaseType"
+  }, {
+    "name" : "testClass",
+    "value" : "Add CaseType"
+  }, {
+    "name" : "testMethod",
+    "value" : "AdminAddsCaseTypeTest - It should Add New Case Type without Entering value"
+  }, {
+    "name" : "package",
+    "value" : "Add CaseType"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "92e9f23aa178a874",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604547996976,
+        "stop" : 1604548039261,
+        "duration" : 42285
+      }
+    }, {
+      "uid" : "44be509e0a893087",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604371150433,
+        "stop" : 1604371190601,
+        "duration" : 40168
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 10
+      },
+      "items" : [ {
+        "uid" : "d0f890997204d5e4",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/24/allure/#testresult/d0f890997204d5e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604371150433,
+          "stop" : 1604371190601,
+          "duration" : 40168
+        }
+      }, {
+        "uid" : "d09ece9bbc45723",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/d09ece9bbc45723",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174019300,
+          "stop" : 1602174024444,
+          "duration" : 5144
+        }
+      }, {
+        "uid" : "8d74b9bef8471642",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/8d74b9bef8471642",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174019300,
+          "stop" : 1602174024444,
+          "duration" : 5144
+        }
+      }, {
+        "uid" : "280ebf1050b76bfc",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/280ebf1050b76bfc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174019300,
+          "stop" : 1602174024444,
+          "duration" : 5144
+        }
+      }, {
+        "uid" : "c0a93d0b5fc0b51",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/c0a93d0b5fc0b51",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954906357,
+          "stop" : 1601954911510,
+          "duration" : 5153
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "29d7e56ebc4125c4.json",
+  "parameterValues" : [ ]
+}

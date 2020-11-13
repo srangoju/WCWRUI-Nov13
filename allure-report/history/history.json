@@ -1,1 +1,1884 @@
-{ }
+{
+  "d74f0cbc309e46ba1a818cc0ad970f28" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "46889341577ddd4",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/46889341577ddd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160645239,
+        "stop" : 1605160652904,
+        "duration" : 7665
+      }
+    }, {
+      "uid" : "46230f9c05fbdf9b",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/46230f9c05fbdf9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174041995,
+        "stop" : 1602174044807,
+        "duration" : 2812
+      }
+    }, {
+      "uid" : "dfcbc8e532f9fecf",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/dfcbc8e532f9fecf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174041995,
+        "stop" : 1602174044807,
+        "duration" : 2812
+      }
+    }, {
+      "uid" : "7363d7ac4c7a997e",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/7363d7ac4c7a997e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174041995,
+        "stop" : 1602174044807,
+        "duration" : 2812
+      }
+    }, {
+      "uid" : "fbb45349777146a2",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/fbb45349777146a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954929549,
+        "stop" : 1601954932621,
+        "duration" : 3072
+      }
+    } ]
+  },
+  "5839f18c4941a763b792eec4e9e937a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "e6995860b8dbc7a9",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/e6995860b8dbc7a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160393942,
+        "stop" : 1605160411254,
+        "duration" : 17312
+      }
+    }, {
+      "uid" : "e09607fef7cea71c",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/e09607fef7cea71c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174007741,
+        "stop" : 1602174019290,
+        "duration" : 11549
+      }
+    }, {
+      "uid" : "e23fa572957399f0",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/e23fa572957399f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174007741,
+        "stop" : 1602174019290,
+        "duration" : 11549
+      }
+    }, {
+      "uid" : "a0dc0af0e172344c",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/a0dc0af0e172344c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174007741,
+        "stop" : 1602174019290,
+        "duration" : 11549
+      }
+    }, {
+      "uid" : "63cb5297cb8c29e0",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/63cb5297cb8c29e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954899259,
+        "stop" : 1601954906326,
+        "duration" : 7067
+      }
+    } ]
+  },
+  "2d53aef05449c9b3018da99c8440fb7c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "205e41e22b75515d",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/205e41e22b75515d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160595003,
+        "stop" : 1605160599946,
+        "duration" : 4943
+      }
+    }, {
+      "uid" : "ab54c4b9e9db8ef1",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/ab54c4b9e9db8ef1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174003101,
+        "stop" : 1602174005151,
+        "duration" : 2050
+      }
+    }, {
+      "uid" : "1a3a8dd56cd86f14",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/1a3a8dd56cd86f14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174003101,
+        "stop" : 1602174005151,
+        "duration" : 2050
+      }
+    }, {
+      "uid" : "3f8897c4d64517b9",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/3f8897c4d64517b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174003101,
+        "stop" : 1602174005151,
+        "duration" : 2050
+      }
+    }, {
+      "uid" : "9bb71883c5bf491",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/9bb71883c5bf491",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954892037,
+        "stop" : 1601954894222,
+        "duration" : 2185
+      }
+    } ]
+  },
+  "c2c0c35c2193700b281f3bd4b79c3ae7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1759f2e2333f589b",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/1759f2e2333f589b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160446527,
+        "stop" : 1605160476580,
+        "duration" : 30053
+      }
+    } ]
+  },
+  "e6166ad26eebdd7526a4ef01b15ca810" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2f7c5e8a94ff5e56",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/2f7c5e8a94ff5e56",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <a> is not clickable at point (74,477) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605160686057,
+        "stop" : 1605160686188,
+        "duration" : 131
+      }
+    } ]
+  },
+  "86f32d06ca9976ec5125d6eb91c3f4a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "95ceee3b7003e2c1",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/95ceee3b7003e2c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602173988944,
+        "stop" : 1602173995691,
+        "duration" : 6747
+      }
+    }, {
+      "uid" : "5104e68450993a8d",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/5104e68450993a8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602173988944,
+        "stop" : 1602173995691,
+        "duration" : 6747
+      }
+    }, {
+      "uid" : "63534633c725e010",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/63534633c725e010",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602173988944,
+        "stop" : 1602173995691,
+        "duration" : 6747
+      }
+    }, {
+      "uid" : "bae29d99195225bc",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/bae29d99195225bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954877656,
+        "stop" : 1601954884513,
+        "duration" : 6857
+      }
+    }, {
+      "uid" : "b3476ee4288bc04a",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/b3476ee4288bc04a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954877656,
+        "stop" : 1601954884513,
+        "duration" : 6857
+      }
+    } ]
+  },
+  "e8d6cf53278e4d6f11b22704f645e7f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "cafb27591b95cf96",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/cafb27591b95cf96",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, /html/body/app-root/div/div/div[2]/app-courts/div/div/div[2]/div/app-create-court/div/div/div[1]/app-search-template[10]/div/div/input)",
+      "time" : {
+        "start" : 1605113887401,
+        "stop" : 1605113934173,
+        "duration" : 46772
+      }
+    }, {
+      "uid" : "e330a7a0f7182ace",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/e330a7a0f7182ace",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603444323046,
+        "stop" : 1603444370726,
+        "duration" : 47680
+      }
+    }, {
+      "uid" : "46b5ac8f3ca160de",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/46b5ac8f3ca160de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603444323046,
+        "stop" : 1603444370726,
+        "duration" : 47680
+      }
+    }, {
+      "uid" : "7c9489bea2b813e3",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/7c9489bea2b813e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603444323046,
+        "stop" : 1603444370726,
+        "duration" : 47680
+      }
+    }, {
+      "uid" : "e32353a05f3e96",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/e32353a05f3e96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954884544,
+        "stop" : 1601954888303,
+        "duration" : 3759
+      }
+    } ]
+  },
+  "3db83d816653603827de6b989f217de6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "1456cbcc032f094a",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/1456cbcc032f094a",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <a> is not clickable at point (74,477) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605160685709,
+        "stop" : 1605160685888,
+        "duration" : 179
+      }
+    }, {
+      "uid" : "5960426f04843e29",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/5960426f04843e29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174037378,
+        "stop" : 1602174039715,
+        "duration" : 2337
+      }
+    }, {
+      "uid" : "3564ddd032fe2b2f",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/3564ddd032fe2b2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174037378,
+        "stop" : 1602174039715,
+        "duration" : 2337
+      }
+    }, {
+      "uid" : "5af7fa379e809da3",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/5af7fa379e809da3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174037378,
+        "stop" : 1602174039715,
+        "duration" : 2337
+      }
+    }, {
+      "uid" : "c50a34a5753876e2",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/c50a34a5753876e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954924751,
+        "stop" : 1601954927142,
+        "duration" : 2391
+      }
+    } ]
+  },
+  "cbd0266a2bbb2650e8427b747382d03e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aa595fb70e9fac9",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/aa595fb70e9fac9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160476595,
+        "stop" : 1605160501073,
+        "duration" : 24478
+      }
+    } ]
+  },
+  "ccee1a15536fc5d01d42e0aaeedae2ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "3d129ab27706fd87",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/3d129ab27706fd87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160652920,
+        "stop" : 1605160660432,
+        "duration" : 7512
+      }
+    }, {
+      "uid" : "4b8d34d8044a4657",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/4b8d34d8044a4657",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174057993,
+        "stop" : 1602174063207,
+        "duration" : 5214
+      }
+    }, {
+      "uid" : "9778c5793765cdf",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/9778c5793765cdf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174057993,
+        "stop" : 1602174063207,
+        "duration" : 5214
+      }
+    }, {
+      "uid" : "25da647828381f10",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/25da647828381f10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174057993,
+        "stop" : 1602174063207,
+        "duration" : 5214
+      }
+    }, {
+      "uid" : "7429495521336cd0",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/7429495521336cd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601910920039,
+        "stop" : 1601910978943,
+        "duration" : 58904
+      }
+    } ]
+  },
+  "dfe4bd90f3640942a2085d9471e9bbf7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "919687de36493b6b",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/919687de36493b6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160364451,
+        "stop" : 1605160393927,
+        "duration" : 29476
+      }
+    } ]
+  },
+  "832da271c238c05cc379651b4fc2404f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e1607b5c0f8b581",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/2e1607b5c0f8b581",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <a> is not clickable at point (76,427) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605160685371,
+        "stop" : 1605160685540,
+        "duration" : 169
+      }
+    } ]
+  },
+  "a9767e92cebf1270c559f5847ae06fe7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eea1e714881388c8",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/eea1e714881388c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160431777,
+        "stop" : 1605160446512,
+        "duration" : 14735
+      }
+    } ]
+  },
+  "ddc2ec5cade8d65627d64f2a21a06fc5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "4c468ae162e50994",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/4c468ae162e50994",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160574369,
+        "stop" : 1605160583103,
+        "duration" : 8734
+      }
+    }, {
+      "uid" : "9f835fe074573fd7",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/9f835fe074573fd7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602173984351,
+        "stop" : 1602173987090,
+        "duration" : 2739
+      }
+    }, {
+      "uid" : "f37a7e88093982d2",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/f37a7e88093982d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602173984351,
+        "stop" : 1602173987090,
+        "duration" : 2739
+      }
+    }, {
+      "uid" : "cc3b5ae19a7f63ba",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/cc3b5ae19a7f63ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602173984351,
+        "stop" : 1602173987090,
+        "duration" : 2739
+      }
+    }, {
+      "uid" : "eba8bcc77d64217a",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/eba8bcc77d64217a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954872719,
+        "stop" : 1601954875600,
+        "duration" : 2881
+      }
+    } ]
+  },
+  "b39c51b16aa9a3762097c11cacd97aa8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "f59453e037a94740",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/f59453e037a94740",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160583103,
+        "stop" : 1605160594987,
+        "duration" : 11884
+      }
+    }, {
+      "uid" : "d7d86a583a11317a",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/d7d86a583a11317a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602173987097,
+        "stop" : 1602173988928,
+        "duration" : 1831
+      }
+    }, {
+      "uid" : "a8304c04414134c1",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/a8304c04414134c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602173987097,
+        "stop" : 1602173988928,
+        "duration" : 1831
+      }
+    }, {
+      "uid" : "bf71f0bae1eed1cd",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/bf71f0bae1eed1cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602173987097,
+        "stop" : 1602173988928,
+        "duration" : 1831
+      }
+    }, {
+      "uid" : "b44752e314ce4182",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/b44752e314ce4182",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954875642,
+        "stop" : 1601954877591,
+        "duration" : 1949
+      }
+    } ]
+  },
+  "bea295070c0c3b83d7f388f867d00c50" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "95dbb50037b03651",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/95dbb50037b03651",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160599946,
+        "stop" : 1605160607322,
+        "duration" : 7376
+      }
+    }, {
+      "uid" : "ebfdc6b8c0b536c5",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/ebfdc6b8c0b536c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174005151,
+        "stop" : 1602174007725,
+        "duration" : 2574
+      }
+    }, {
+      "uid" : "9cddfa773d623917",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/9cddfa773d623917",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174005151,
+        "stop" : 1602174007725,
+        "duration" : 2574
+      }
+    }, {
+      "uid" : "2f1e2c8f51ef391d",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/2f1e2c8f51ef391d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174005151,
+        "stop" : 1602174007725,
+        "duration" : 2574
+      }
+    }, {
+      "uid" : "2d41f3174bb3fe05",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/2d41f3174bb3fe05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954894222,
+        "stop" : 1601954896813,
+        "duration" : 2591
+      }
+    } ]
+  },
+  "419d6df1c155220f7a5b8589d74183ba" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 11
+    },
+    "items" : [ {
+      "uid" : "d2bbfa692b4e4cb1",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/d2bbfa692b4e4cb1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160534512,
+        "stop" : 1605160542015,
+        "duration" : 7503
+      }
+    }, {
+      "uid" : "2803a04c0ff927e6",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/24/allure/#testresult/2803a04c0ff927e6",
+      "status" : "failed",
+      "statusDetails" : "Failed: expect(...).isDisplayed is not a function",
+      "time" : {
+        "start" : 1604370866958,
+        "stop" : 1604370903480,
+        "duration" : 36522
+      }
+    }, {
+      "uid" : "231c14cf61ce07f6",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/23/allure/#testresult/231c14cf61ce07f6",
+      "status" : "failed",
+      "statusDetails" : "Failed: expect(...).isDisplayed is not a function",
+      "time" : {
+        "start" : 1604370866958,
+        "stop" : 1604370903480,
+        "duration" : 36522
+      }
+    }, {
+      "uid" : "f807c93d0d022fb1",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/f807c93d0d022fb1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602173933848,
+        "stop" : 1602173974727,
+        "duration" : 40879
+      }
+    }, {
+      "uid" : "2b0b11cfa18f296f",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/2b0b11cfa18f296f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602173933848,
+        "stop" : 1602173974727,
+        "duration" : 40879
+      }
+    } ]
+  },
+  "e0bef75bba4d6fefe4d83c9c9cf56242" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "6a911252027f45e6",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/6a911252027f45e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160668995,
+        "stop" : 1605160684700,
+        "duration" : 15705
+      }
+    }, {
+      "uid" : "b9907911fa051161",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/b9907911fa051161",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174067458,
+        "stop" : 1602174074435,
+        "duration" : 6977
+      }
+    }, {
+      "uid" : "bb54781b69a16e05",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/bb54781b69a16e05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174067458,
+        "stop" : 1602174074435,
+        "duration" : 6977
+      }
+    }, {
+      "uid" : "150c563659174183",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/150c563659174183",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174067458,
+        "stop" : 1602174074435,
+        "duration" : 6977
+      }
+    }, {
+      "uid" : "42df5fcd4f1eb2b6",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/42df5fcd4f1eb2b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954951762,
+        "stop" : 1601954958582,
+        "duration" : 6820
+      }
+    } ]
+  },
+  "e50d875b2805e0d0ed1e14fccfc4e9e1" : {
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "ba05f779879f9eb5",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/ba05f779879f9eb5",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'sendKeys' of undefined",
+      "time" : {
+        "start" : 1601910754931,
+        "stop" : 1601910769200,
+        "duration" : 14269
+      }
+    }, {
+      "uid" : "2467011fd2d0719",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/2467011fd2d0719",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'sendKeys' of undefined",
+      "time" : {
+        "start" : 1601910754931,
+        "stop" : 1601910769200,
+        "duration" : 14269
+      }
+    }, {
+      "uid" : "26a5693fd9bff1ba",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/5/allure/#testresult/26a5693fd9bff1ba",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'sendKeys' of undefined",
+      "time" : {
+        "start" : 1601910754931,
+        "stop" : 1601910769200,
+        "duration" : 14269
+      }
+    }, {
+      "uid" : "3b2dd0dc43051f61",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/4/allure/#testresult/3b2dd0dc43051f61",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'sendKeys' of undefined",
+      "time" : {
+        "start" : 1601910754931,
+        "stop" : 1601910769200,
+        "duration" : 14269
+      }
+    }, {
+      "uid" : "835bec9afdd1c560",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/3/allure/#testresult/835bec9afdd1c560",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'sendKeys' of undefined",
+      "time" : {
+        "start" : 1601910754931,
+        "stop" : 1601910769200,
+        "duration" : 14269
+      }
+    } ]
+  },
+  "6a2be6e9ab0b4b3304f3ff90c4dc4238" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bc6ca672a271f991",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/bc6ca672a271f991",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160607322,
+        "stop" : 1605160613655,
+        "duration" : 6333
+      }
+    } ]
+  },
+  "deaf1e6e85d0c126848143d1e7e94050" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "706368e458f8bff1",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/706368e458f8bff1",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <a> is not clickable at point (74,477) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605160685540,
+        "stop" : 1605160685709,
+        "duration" : 169
+      }
+    }, {
+      "uid" : "a1bca97f0ff72799",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/a1bca97f0ff72799",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174032296,
+        "stop" : 1602174037378,
+        "duration" : 5082
+      }
+    }, {
+      "uid" : "a6ba46c4d0595f1b",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/a6ba46c4d0595f1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174032296,
+        "stop" : 1602174037378,
+        "duration" : 5082
+      }
+    }, {
+      "uid" : "7a250cbd8e014037",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/7a250cbd8e014037",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174032296,
+        "stop" : 1602174037378,
+        "duration" : 5082
+      }
+    }, {
+      "uid" : "3b0ecdef39635d85",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/3b0ecdef39635d85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954919620,
+        "stop" : 1601954924751,
+        "duration" : 5131
+      }
+    } ]
+  },
+  "ae0ad20c41b265d81039b2586d1980f7" : {
+    "statistic" : {
+      "failed" : 9,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "94015b0acae6ed7e",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/94015b0acae6ed7e",
+      "status" : "failed",
+      "statusDetails" : "Expected 'The following Role : Super already exists.' to equal 'Some Error occurred while creating/updating the Role'.",
+      "time" : {
+        "start" : 1605160563312,
+        "stop" : 1605160574369,
+        "duration" : 11057
+      }
+    }, {
+      "uid" : "9e54d9b4332bf666",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/9e54d9b4332bf666",
+      "status" : "failed",
+      "statusDetails" : "Expected 'The following Role : Super already exists.' to equal 'Some Error occurred while creating/updating the Role'.",
+      "time" : {
+        "start" : 1602173980862,
+        "stop" : 1602173984351,
+        "duration" : 3489
+      }
+    }, {
+      "uid" : "344de6beea903c92",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/344de6beea903c92",
+      "status" : "failed",
+      "statusDetails" : "Expected 'The following Role : Super already exists.' to equal 'Some Error occurred while creating/updating the Role'.",
+      "time" : {
+        "start" : 1602173980862,
+        "stop" : 1602173984351,
+        "duration" : 3489
+      }
+    }, {
+      "uid" : "327587ddec9a341a",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/327587ddec9a341a",
+      "status" : "failed",
+      "statusDetails" : "Expected 'The following Role : Super already exists.' to equal 'Some Error occurred while creating/updating the Role'.",
+      "time" : {
+        "start" : 1602173980862,
+        "stop" : 1602173984351,
+        "duration" : 3489
+      }
+    }, {
+      "uid" : "9086b0b473ecc9c",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/9086b0b473ecc9c",
+      "status" : "failed",
+      "statusDetails" : "Expected 'The following Role : Super already exists.' to equal 'Some Error occurred while creating/updating the Role'.",
+      "time" : {
+        "start" : 1601954869309,
+        "stop" : 1601954872719,
+        "duration" : 3410
+      }
+    } ]
+  },
+  "88973440d32753e3f8f21336b039e0e1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "a2d1d74095054a9f",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/a2d1d74095054a9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160629627,
+        "stop" : 1605160645239,
+        "duration" : 15612
+      }
+    }, {
+      "uid" : "cf4b410531bb77c1",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/cf4b410531bb77c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174048851,
+        "stop" : 1602174057979,
+        "duration" : 9128
+      }
+    }, {
+      "uid" : "848759e5c5f98ee3",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/848759e5c5f98ee3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174048851,
+        "stop" : 1602174057979,
+        "duration" : 9128
+      }
+    }, {
+      "uid" : "4f7b0664b343ab19",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/4f7b0664b343ab19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174048851,
+        "stop" : 1602174057979,
+        "duration" : 9128
+      }
+    }, {
+      "uid" : "64493ea9dde23da9",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/64493ea9dde23da9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954937391,
+        "stop" : 1601954946794,
+        "duration" : 9403
+      }
+    } ]
+  },
+  "8ee35f76439044cc2f07dfe77f0fb0ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "ecdf27d1b0a691e8",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/ecdf27d1b0a691e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160619870,
+        "stop" : 1605160629627,
+        "duration" : 9757
+      }
+    }, {
+      "uid" : "5c430d6fec257444",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/5c430d6fec257444",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174044807,
+        "stop" : 1602174048851,
+        "duration" : 4044
+      }
+    }, {
+      "uid" : "e939ff090411d53e",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/e939ff090411d53e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174044807,
+        "stop" : 1602174048851,
+        "duration" : 4044
+      }
+    }, {
+      "uid" : "6df4852dd20849a5",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/6df4852dd20849a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174044807,
+        "stop" : 1602174048851,
+        "duration" : 4044
+      }
+    }, {
+      "uid" : "5dcc2e412742d6a3",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/5dcc2e412742d6a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954932621,
+        "stop" : 1601954937391,
+        "duration" : 4770
+      }
+    } ]
+  },
+  "5d0c5e7eb007c29717a24cc01eca5e3f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "29d7e56ebc4125c4",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/29d7e56ebc4125c4",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <i class=\"icon-case-type\"> is not clickable at point (76,425) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605160684707,
+        "stop" : 1605160684901,
+        "duration" : 194
+      }
+    }, {
+      "uid" : "d0f890997204d5e4",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/24/allure/#testresult/d0f890997204d5e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604371150433,
+        "stop" : 1604371190601,
+        "duration" : 40168
+      }
+    }, {
+      "uid" : "d09ece9bbc45723",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/d09ece9bbc45723",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174019300,
+        "stop" : 1602174024444,
+        "duration" : 5144
+      }
+    }, {
+      "uid" : "8d74b9bef8471642",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/8d74b9bef8471642",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174019300,
+        "stop" : 1602174024444,
+        "duration" : 5144
+      }
+    }, {
+      "uid" : "280ebf1050b76bfc",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/280ebf1050b76bfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174019300,
+        "stop" : 1602174024444,
+        "duration" : 5144
+      }
+    } ]
+  },
+  "ba67882037f79596c61af70e51d31ff3" : {
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "8057b46eb7066f65",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/8057b46eb7066f65",
+      "status" : "failed",
+      "statusDetails" : "ReferenceError: logingDetails is not defined",
+      "time" : {
+        "start" : 1601916548300,
+        "stop" : 1601916548385,
+        "duration" : 85
+      }
+    }, {
+      "uid" : "d943e542f584c821",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/d943e542f584c821",
+      "status" : "failed",
+      "statusDetails" : "ReferenceError: logingDetails is not defined",
+      "time" : {
+        "start" : 1601916548300,
+        "stop" : 1601916548385,
+        "duration" : 85
+      }
+    }, {
+      "uid" : "97a9bf3174aa9fce",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/5/allure/#testresult/97a9bf3174aa9fce",
+      "status" : "failed",
+      "statusDetails" : "ReferenceError: logingDetails is not defined",
+      "time" : {
+        "start" : 1601916548300,
+        "stop" : 1601916548385,
+        "duration" : 85
+      }
+    }, {
+      "uid" : "6fbdbf680c40ac57",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/4/allure/#testresult/6fbdbf680c40ac57",
+      "status" : "failed",
+      "statusDetails" : "ReferenceError: logingDetails is not defined",
+      "time" : {
+        "start" : 1601916548300,
+        "stop" : 1601916548385,
+        "duration" : 85
+      }
+    }, {
+      "uid" : "9231b425ca732b0b",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/3/allure/#testresult/9231b425ca732b0b",
+      "status" : "failed",
+      "statusDetails" : "ReferenceError: logingDetails is not defined",
+      "time" : {
+        "start" : 1601916548300,
+        "stop" : 1601916548385,
+        "duration" : 85
+      }
+    } ]
+  },
+  "2c2b34904e34da1cb12090940111761d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "33db73b31637987e",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/33db73b31637987e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160411254,
+        "stop" : 1605160431761,
+        "duration" : 20507
+      }
+    } ]
+  },
+  "2c059d411161faf98f5ef5902c0de2aa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a6f1f94d2cb6b6e",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/4a6f1f94d2cb6b6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160501088,
+        "stop" : 1605160523994,
+        "duration" : 22906
+      }
+    } ]
+  },
+  "559645257293e9405c254bef8bffb9a4" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "d34672a5b24d554e",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/d34672a5b24d554e",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <i class=\"icon-case-type\"> is not clickable at point (76,425) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605160684901,
+        "stop" : 1605160685054,
+        "duration" : 153
+      }
+    }, {
+      "uid" : "11096c229199ec7c",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/24/allure/#testresult/11096c229199ec7c",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Type Already Exist' to equal 'Type updated/added'.",
+      "time" : {
+        "start" : 1604371190601,
+        "stop" : 1604371193142,
+        "duration" : 2541
+      }
+    }, {
+      "uid" : "2e4f2873003a1adc",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/2e4f2873003a1adc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174024444,
+        "stop" : 1602174026795,
+        "duration" : 2351
+      }
+    }, {
+      "uid" : "c22a291c78024719",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/c22a291c78024719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174024444,
+        "stop" : 1602174026795,
+        "duration" : 2351
+      }
+    }, {
+      "uid" : "1eb3f28eda3fcd0b",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/1eb3f28eda3fcd0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174024444,
+        "stop" : 1602174026795,
+        "duration" : 2351
+      }
+    } ]
+  },
+  "60925ca00c6e7550bd2b07e493fe2ccd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "b026c1c2deb1f98d",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/b026c1c2deb1f98d",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <i class=\"icon-case-type\"> is not clickable at point (76,425) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605160685054,
+        "stop" : 1605160685208,
+        "duration" : 154
+      }
+    }, {
+      "uid" : "74871b69fa761d08",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/24/allure/#testresult/74871b69fa761d08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604371193142,
+        "stop" : 1604371195409,
+        "duration" : 2267
+      }
+    }, {
+      "uid" : "70521b9f29ae238a",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/70521b9f29ae238a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174026795,
+        "stop" : 1602174029166,
+        "duration" : 2371
+      }
+    }, {
+      "uid" : "7a50c49196e68786",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/7a50c49196e68786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174026795,
+        "stop" : 1602174029166,
+        "duration" : 2371
+      }
+    }, {
+      "uid" : "ac6322a44e503847",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/ac6322a44e503847",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174026795,
+        "stop" : 1602174029166,
+        "duration" : 2371
+      }
+    } ]
+  },
+  "e840186abd1a11e665a0254440e7a44f" : {
+    "statistic" : {
+      "failed" : 9,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "1d53c71df22b402",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/1d53c71df22b402",
+      "status" : "failed",
+      "statusDetails" : "Expected 'The following Role : Super123 already exists.' to equal 'Role name or description cannot start or end with special characters'.",
+      "time" : {
+        "start" : 1605160542015,
+        "stop" : 1605160552658,
+        "duration" : 10643
+      }
+    }, {
+      "uid" : "f8b7e205a6c90d45",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/f8b7e205a6c90d45",
+      "status" : "failed",
+      "statusDetails" : "Expected '' to equal 'Role name or description cannot start or end with special characters'.",
+      "time" : {
+        "start" : 1602173974762,
+        "stop" : 1602173978068,
+        "duration" : 3306
+      }
+    }, {
+      "uid" : "1af9102b164a1a1b",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/1af9102b164a1a1b",
+      "status" : "failed",
+      "statusDetails" : "Expected '' to equal 'Role name or description cannot start or end with special characters'.",
+      "time" : {
+        "start" : 1602173974762,
+        "stop" : 1602173978068,
+        "duration" : 3306
+      }
+    }, {
+      "uid" : "7ab1a1583edfc3ca",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/7ab1a1583edfc3ca",
+      "status" : "failed",
+      "statusDetails" : "Expected '' to equal 'Role name or description cannot start or end with special characters'.",
+      "time" : {
+        "start" : 1602173974762,
+        "stop" : 1602173978068,
+        "duration" : 3306
+      }
+    }, {
+      "uid" : "a0c753beec93c462",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/a0c753beec93c462",
+      "status" : "failed",
+      "statusDetails" : "Expected 'The following Role : Super123 already exists.' to equal 'Role name or description cannot start or end with special characters'.",
+      "time" : {
+        "start" : 1601954863524,
+        "stop" : 1601954866301,
+        "duration" : 2777
+      }
+    } ]
+  },
+  "62d28ed8323fa05de7ea3b1e5c092db5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "c5e2663367cb84bb",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/c5e2663367cb84bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160524009,
+        "stop" : 1605160534497,
+        "duration" : 10488
+      }
+    }, {
+      "uid" : "b7fd5e25ff3cbd65",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/b7fd5e25ff3cbd65",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602173999495,
+        "stop" : 1602174003093,
+        "duration" : 3598
+      }
+    }, {
+      "uid" : "7d1445720453f8e1",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/7d1445720453f8e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602173999495,
+        "stop" : 1602174003093,
+        "duration" : 3598
+      }
+    }, {
+      "uid" : "dae2fb1c98ed0212",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/dae2fb1c98ed0212",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602173999495,
+        "stop" : 1602174003093,
+        "duration" : 3598
+      }
+    }, {
+      "uid" : "61d4309e2471082f",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/61d4309e2471082f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954888341,
+        "stop" : 1601954891999,
+        "duration" : 3658
+      }
+    } ]
+  },
+  "7743788b8c021506c09e5252b2c3643" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "cee65f62dd16bc83",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/cee65f62dd16bc83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174039715,
+        "stop" : 1602174041983,
+        "duration" : 2268
+      }
+    }, {
+      "uid" : "c56070697a3a0e19",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/c56070697a3a0e19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174039715,
+        "stop" : 1602174041983,
+        "duration" : 2268
+      }
+    }, {
+      "uid" : "c0fc9f3955a8237c",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/c0fc9f3955a8237c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174039715,
+        "stop" : 1602174041983,
+        "duration" : 2268
+      }
+    }, {
+      "uid" : "ccfaeb18769975d1",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/ccfaeb18769975d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954927142,
+        "stop" : 1601954929512,
+        "duration" : 2370
+      }
+    }, {
+      "uid" : "37ec363d041672fd",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/37ec363d041672fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954927142,
+        "stop" : 1601954929512,
+        "duration" : 2370
+      }
+    } ]
+  },
+  "477ca7a39b1b719e47e256606c33346d" : {
+    "statistic" : {
+      "failed" : 9,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "afb99564b201ff7",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/afb99564b201ff7",
+      "status" : "failed",
+      "statusDetails" : "Expected 'The following Role : SuperUserSuperUserSuperUser already exists.' to equal 'Role name or description cannot start or end with special characters'.",
+      "time" : {
+        "start" : 1605160552658,
+        "stop" : 1605160563312,
+        "duration" : 10654
+      }
+    }, {
+      "uid" : "76d18cfef00947e1",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/76d18cfef00947e1",
+      "status" : "failed",
+      "statusDetails" : "Expected 'The following Role : Super123 already exists.\n                The following Role : SuperUserSuperUserSuperUser already exists.' to equal 'Role name or description cannot start or end with special characters'.",
+      "time" : {
+        "start" : 1602173978068,
+        "stop" : 1602173980862,
+        "duration" : 2794
+      }
+    }, {
+      "uid" : "b38c0272553cf010",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/b38c0272553cf010",
+      "status" : "failed",
+      "statusDetails" : "Expected 'The following Role : Super123 already exists.\n                The following Role : SuperUserSuperUserSuperUser already exists.' to equal 'Role name or description cannot start or end with special characters'.",
+      "time" : {
+        "start" : 1602173978068,
+        "stop" : 1602173980862,
+        "duration" : 2794
+      }
+    }, {
+      "uid" : "e2cb4fd9b058bb87",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/e2cb4fd9b058bb87",
+      "status" : "failed",
+      "statusDetails" : "Expected 'The following Role : Super123 already exists.\n                The following Role : SuperUserSuperUserSuperUser already exists.' to equal 'Role name or description cannot start or end with special characters'.",
+      "time" : {
+        "start" : 1602173978068,
+        "stop" : 1602173980862,
+        "duration" : 2794
+      }
+    }, {
+      "uid" : "742b3449b3cf53e1",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/742b3449b3cf53e1",
+      "status" : "failed",
+      "statusDetails" : "Expected 'The following Role : SuperUserSuperUserSuperUser already exists.' to equal 'Role name or description cannot start or end with special characters'.",
+      "time" : {
+        "start" : 1601954866301,
+        "stop" : 1601954869309,
+        "duration" : 3008
+      }
+    } ]
+  },
+  "e26c727935f09c475f6323f7e0f2dffc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "bd46e6b2722c368",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/bd46e6b2722c368",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601896045770,
+        "stop" : 1601896103963,
+        "duration" : 58193
+      }
+    }, {
+      "uid" : "f25cbcaea15efab8",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/f25cbcaea15efab8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601896045770,
+        "stop" : 1601896103963,
+        "duration" : 58193
+      }
+    }, {
+      "uid" : "8c77b1e5b82162f1",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/5/allure/#testresult/8c77b1e5b82162f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601896045770,
+        "stop" : 1601896103963,
+        "duration" : 58193
+      }
+    }, {
+      "uid" : "dcbb8119d7b6674c",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/4/allure/#testresult/dcbb8119d7b6674c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601896045770,
+        "stop" : 1601896103963,
+        "duration" : 58193
+      }
+    }, {
+      "uid" : "fa7ceb9288e024dd",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/3/allure/#testresult/fa7ceb9288e024dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601896045770,
+        "stop" : 1601896103963,
+        "duration" : 58193
+      }
+    } ]
+  },
+  "3ab567f464b2c573d9e59a9c60e89781" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "9b590405944630f6",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/9b590405944630f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160613655,
+        "stop" : 1605160619854,
+        "duration" : 6199
+      }
+    }, {
+      "uid" : "d6a02954a79a0a10",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/d6a02954a79a0a10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954896813,
+        "stop" : 1601954899221,
+        "duration" : 2408
+      }
+    }, {
+      "uid" : "ba6d15557c03535e",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/ba6d15557c03535e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954896813,
+        "stop" : 1601954899221,
+        "duration" : 2408
+      }
+    }, {
+      "uid" : "b7ab42b049cd2c23",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/5/allure/#testresult/b7ab42b049cd2c23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954896813,
+        "stop" : 1601954899221,
+        "duration" : 2408
+      }
+    }, {
+      "uid" : "90c3862495297075",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/4/allure/#testresult/90c3862495297075",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954896813,
+        "stop" : 1601954899221,
+        "duration" : 2408
+      }
+    } ]
+  },
+  "ccfb5871dbe16e69fd947e618392ac46" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "49c4c88f58738ad6",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/49c4c88f58738ad6",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <i class=\"icon-case-type\"> is not clickable at point (76,425) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605160685223,
+        "stop" : 1605160685371,
+        "duration" : 148
+      }
+    }, {
+      "uid" : "700d5d3a7542f98d",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/700d5d3a7542f98d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174029175,
+        "stop" : 1602174032288,
+        "duration" : 3113
+      }
+    }, {
+      "uid" : "27f1f61e8bdde961",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/27f1f61e8bdde961",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174029175,
+        "stop" : 1602174032288,
+        "duration" : 3113
+      }
+    }, {
+      "uid" : "5ddd59256672e308",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/5ddd59256672e308",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174029175,
+        "stop" : 1602174032288,
+        "duration" : 3113
+      }
+    }, {
+      "uid" : "3bb809557dbcf555",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/3bb809557dbcf555",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954916309,
+        "stop" : 1601954919581,
+        "duration" : 3272
+      }
+    } ]
+  },
+  "ce5279827dc09a85ff37c8fe5cd1f526" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd8f6c402a950924",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/bd8f6c402a950924",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <a> is not clickable at point (74,477) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605160685888,
+        "stop" : 1605160686041,
+        "duration" : 153
+      }
+    } ]
+  },
+  "c9199f61c60d7ef4ae1a303465f8df70" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "548a2042c3ba717a",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/548a2042c3ba717a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160660444,
+        "stop" : 1605160668995,
+        "duration" : 8551
+      }
+    }, {
+      "uid" : "40b755d064f7548f",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/40b755d064f7548f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174063212,
+        "stop" : 1602174067458,
+        "duration" : 4246
+      }
+    }, {
+      "uid" : "c53a0dc29a0cc0fe",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/c53a0dc29a0cc0fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174063212,
+        "stop" : 1602174067458,
+        "duration" : 4246
+      }
+    }, {
+      "uid" : "200d0a868d6a376a",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/200d0a868d6a376a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602174063212,
+        "stop" : 1602174067458,
+        "duration" : 4246
+      }
+    }, {
+      "uid" : "b61cb926a376643a",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/b61cb926a376643a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601954946847,
+        "stop" : 1601954951762,
+        "duration" : 4915
+      }
+    } ]
+  },
+  "a434077bb554fa3352191da88466856a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8062bca4cb69e8a",
+      "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/25/allure/#testresult/c8062bca4cb69e8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605160311862,
+        "stop" : 1605160364451,
+        "duration" : 52589
+      }
+    } ]
+  }
+}

@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1605160393942' stop='1605160431761'>
+    <name>Users</name>
+    <title>Users</title>
+    <test-cases>
+        <test-case start='1605160393942' status='passed' stop='1605160411254'>
+            <name>AdminUpdateExistingUserTest - It should Update existing Admin User</name>
+            <title>AdminUpdateExistingUserTest - It should Update existing Admin User</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a29b9ee8-87aa-4f5f-878c-940b26932669-attachment.png' type='image/png' size='61130'/>
+            </attachments>
+        </test-case>
+        <test-case start='1605160411254' status='passed' stop='1605160431761'>
+            <name>AdminUpdateExistingUserTest - It should Update existing Case Manager</name>
+            <title>AdminUpdateExistingUserTest - It should Update existing Case Manager</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='453ba132-0119-46b9-88f8-bc1cad5f8ce0-attachment.png' type='image/png' size='70900'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

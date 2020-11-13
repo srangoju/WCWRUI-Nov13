@@ -23,41 +23,47 @@ exports.config = {
     	  'shardTestFiles': false,
     	  'maxInstances': 1,
     	},
-    	/*specs : [
+    	specs : [
+    	    Spec.addUser, 
+    	    Spec.updateExistingUser,
+    	    Spec.deleteUser,
+    	    Spec.createStateCourt,
+    	    Spec.createFederalCourt,
+    		Spec.updateCourt,
+    		Spec.deleteCourt,
     		Spec.addNewRole,
     		Spec.validations,
     		Spec.updateRole,
-    		Spec.createCourt,
-    		Spec.updateCourt,
-    		Spec.deleteCourt,
     		Spec.rejectReason,
-    		Spec.updateExistingUser,
+ 			Spec.addKnos,
+    		Spec.updateKnos,
+    		Spec.deleteKnos,	
     		Spec.addCaseType,
     		Spec.updateCaseType,
+			Spec.deleteCaseType,
     		Spec.addCaseSubType,
-    		Spec.addKnos,
-    		Spec.updateKnos,
-    		Spec.deleteKnos,
-    		Spec.deleteUser
-    		],*/
-        	specs : [
-        		
-        		Spec.addCaseType
-        			       			
-        		],
-    allScriptsTimeout : 1000000,
+    		Spec.updateCaseSubType,
+    		Spec.deleteCaseSubType
+
+    		],
+        	
+    		//specs : [Spec.deleteCourt],
+    		        	         	 
+    allScriptsTimeout : 400000,
     jasmineNodeOpts: {
+    	onComplete: null,
         showColors: true,
-        defaultTimeoutInterval: 120000,
+        defaultTimeoutInterval: 400000,
         includeStackTrace : true,
-        isVerbose : true,
+        isVerbose : true
+        //silent:true,
         
-       // print: function () {}
+        //print: function () {}
     },
        
       onPrepare : function() {
     	  
-    	jasmine.getEnv().addReporter(new HtmlReporter({
+    /*	jasmine.getEnv().addReporter(new HtmlReporter({
             baseDirectory: 'Reports/screenshots',
             takeScreenShotsOnlyForFailedSpecs: false,
             preserveDirectory: false,
@@ -65,28 +71,29 @@ exports.config = {
             //cssOverrideFile: 'css/style.css'
             showTotalDurationIn: "header",                  
             totalDurationFormat: "hms"
-         }).getJasmine2Reporter());
+         }).getJasmine2Reporter());*/
+    	  
+   /*var AllureReporter = require('jasmine-allure-reporter');
+  		jasmine.getEnv().addReporter(
+  				new Jasmine2HtmlReporter({
+  				savePath: 'target/screenshots'
+  		}));*/
     	
 		protractor.basePath = __dirname;
 		browser.ignoreSynchronization = true;	
-
-		browser.driver.manage().window().maximize();
-		/*var AllureReporter = require('jasmine-allure-reporter');
-		jasmine.getEnv().addReporter(
-				new Jasmine2HtmlReporter({
-				savePath: 'target/screenshots'
-		}));*/
 		var AllureReporter = require('jasmine-allure-reporter');
 		jasmine.getEnv().addReporter(new AllureReporter({
+			allureReport:{
 				resultsDir: 'allure-results'
+			}
 		}));
-	/*	jasmine.getEnv().afterEach(function (done) {
+		jasmine.getEnv().afterEach(function (done) {
 			browser.takeScreenshot().then(function (png) {
 				allure.createAttachment('Screenshot', function () {
 					return new Buffer(png, 'base64')
 				}, 'image/png')();
 				done();
 			})
-		});*/
+		});
 	}
 };

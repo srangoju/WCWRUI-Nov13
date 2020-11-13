@@ -1,0 +1,62 @@
+{
+  "uid" : "919687de36493b6b",
+  "name" : "Case Manager - It should add casemanager",
+  "fullName" : "Users.Case Manager - It should add casemanager",
+  "historyId" : "dfe4bd90f3640942a2085d9471e9bbf7",
+  "time" : {
+    "start" : 1605160364451,
+    "stop" : 1605160393927,
+    "duration" : 29476
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "265e2731e33a9dca",
+      "name" : "Screenshot",
+      "source" : "265e2731e33a9dca.png",
+      "type" : "image/png",
+      "size" : 58020
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Users"
+  }, {
+    "name" : "testClass",
+    "value" : "Users"
+  }, {
+    "name" : "testMethod",
+    "value" : "Case Manager - It should add casemanager"
+  }, {
+    "name" : "package",
+    "value" : "Users"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "919687de36493b6b.json",
+  "parameterValues" : [ ]
+}

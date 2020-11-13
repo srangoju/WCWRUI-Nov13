@@ -1,0 +1,60 @@
+{
+  "uid" : "c318fd9f71f3ef44",
+  "name" : "AddNewKNOS- It should add new casetype and subtype releationship to system!",
+  "fullName" : "Add KNOS Relationship.AddNewKNOS- It should add new casetype and subtype releationship to system!",
+  "historyId" : "8ee35f76439044cc2f07dfe77f0fb0ec",
+  "time" : {
+    "start" : 1605069849096,
+    "stop" : 1605069858575,
+    "duration" : 9479
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "848e2a3b00941f3",
+      "name" : "Screenshot",
+      "source" : "848e2a3b00941f3.png",
+      "type" : "image/png",
+      "size" : 43080
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add KNOS Relationship"
+  }, {
+    "name" : "testClass",
+    "value" : "Add KNOS Relationship"
+  }, {
+    "name" : "testMethod",
+    "value" : "AddNewKNOS- It should add new casetype and subtype releationship to system!"
+  }, {
+    "name" : "package",
+    "value" : "Add KNOS Relationship"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c318fd9f71f3ef44.json",
+  "parameterValues" : [ ]
+}

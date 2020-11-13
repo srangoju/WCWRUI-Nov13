@@ -1,0 +1,97 @@
+{
+  "uid" : "4a6f1f94d2cb6b6e",
+  "name" : "updateCourt - It should Update the Court Information!",
+  "fullName" : "Update Court.updateCourt - It should Update the Court Information!",
+  "historyId" : "2c059d411161faf98f5ef5902c0de2aa",
+  "time" : {
+    "start" : 1605160501088,
+    "stop" : 1605160523994,
+    "duration" : 22906
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7ed7388243b8dd82",
+      "name" : "Screenshot",
+      "source" : "7ed7388243b8dd82.png",
+      "type" : "image/png",
+      "size" : 53553
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Update Court"
+  }, {
+    "name" : "testClass",
+    "value" : "Update Court"
+  }, {
+    "name" : "testMethod",
+    "value" : "updateCourt - It should Update the Court Information!"
+  }, {
+    "name" : "package",
+    "value" : "Update Court"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bfb47f29783229dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605153529574,
+        "stop" : 1605153589841,
+        "duration" : 60267
+      }
+    }, {
+      "uid" : "b4ecbeff75b704fa",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, /html/body/app-root/div/div/div[2]/app-courts/div/div/div[2]/div/app-create-court/div/div/div[1]/app-search-template[15]/div/div/input)",
+      "time" : {
+        "start" : 1605153399408,
+        "stop" : 1605153448353,
+        "duration" : 48945
+      }
+    }, {
+      "uid" : "716d8ea3b8a8762a",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <div class=\"wj-elem-filter\"> is not clickable at point (260,141) because another element <div class=\"bento-busyloader-inner\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605153338868,
+        "stop" : 1605153380213,
+        "duration" : 41345
+      }
+    }, {
+      "uid" : "5394ce1708f679a9",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, /html/body/app-root/div/div/div[2]/app-courts/div/div/div[2]/div/app-create-court/div/div/div[1]/app-search-template[10]/div/div/input)",
+      "time" : {
+        "start" : 1605152584563,
+        "stop" : 1605152628712,
+        "duration" : 44149
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a6f1f94d2cb6b6e.json",
+  "parameterValues" : [ ]
+}

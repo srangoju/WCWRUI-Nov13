@@ -1,0 +1,44 @@
+{
+  "uid" : "5695e6475c2841a",
+  "name" : "AdminDeletesCaseTypeTest - It should delete a random  Type Name",
+  "fullName" : "Add CaseType.AdminDeletesCaseTypeTest - It should delete a random  Type Name",
+  "historyId" : "60925ca00c6e7550bd2b07e493fe2ccd",
+  "time" : {
+    "start" : 1604371193142,
+    "stop" : 1604371195409,
+    "duration" : 2267
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add CaseType"
+  }, {
+    "name" : "testClass",
+    "value" : "Add CaseType"
+  }, {
+    "name" : "testMethod",
+    "value" : "AdminDeletesCaseTypeTest - It should delete a random  Type Name"
+  }, {
+    "name" : "package",
+    "value" : "Add CaseType"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5695e6475c2841a.json",
+  "parameterValues" : [ ]
+}

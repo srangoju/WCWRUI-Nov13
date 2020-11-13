@@ -1,0 +1,142 @@
+{
+  "uid" : "c5e2663367cb84bb",
+  "name" : "DeleteCourt - It should Delete Court!",
+  "fullName" : "Delete Court.DeleteCourt - It should Delete Court!",
+  "historyId" : "62d28ed8323fa05de7ea3b1e5c092db5",
+  "time" : {
+    "start" : 1605160524009,
+    "stop" : 1605160534497,
+    "duration" : 10488
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "adfc2950b229664",
+      "name" : "Screenshot",
+      "source" : "adfc2950b229664.png",
+      "type" : "image/png",
+      "size" : 52558
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Delete Court"
+  }, {
+    "name" : "testClass",
+    "value" : "Delete Court"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteCourt - It should Delete Court!"
+  }, {
+    "name" : "package",
+    "value" : "Delete Court"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f502fd620a17f1d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605157733079,
+        "stop" : 1605157781140,
+        "duration" : 48061
+      }
+    }, {
+      "uid" : "e6cc76f9e5aaaa82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605157151051,
+        "stop" : 1605157200050,
+        "duration" : 48999
+      }
+    }, {
+      "uid" : "60ac7e18f9efcf0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605069838847,
+        "stop" : 1605069849088,
+        "duration" : 10241
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "b7fd5e25ff3cbd65",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/b7fd5e25ff3cbd65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602173999495,
+          "stop" : 1602174003093,
+          "duration" : 3598
+        }
+      }, {
+        "uid" : "7d1445720453f8e1",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/7d1445720453f8e1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602173999495,
+          "stop" : 1602174003093,
+          "duration" : 3598
+        }
+      }, {
+        "uid" : "dae2fb1c98ed0212",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/dae2fb1c98ed0212",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602173999495,
+          "stop" : 1602174003093,
+          "duration" : 3598
+        }
+      }, {
+        "uid" : "61d4309e2471082f",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/61d4309e2471082f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954888341,
+          "stop" : 1601954891999,
+          "duration" : 3658
+        }
+      }, {
+        "uid" : "3f85e246cc6df71e",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/3f85e246cc6df71e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954888341,
+          "stop" : 1601954891999,
+          "duration" : 3658
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c5e2663367cb84bb.json",
+  "parameterValues" : [ ]
+}

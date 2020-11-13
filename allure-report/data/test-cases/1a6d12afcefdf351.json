@@ -1,0 +1,64 @@
+{
+  "uid" : "1a6d12afcefdf351",
+  "name" : "DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down",
+  "fullName" : "Delete KNOS Relationship.DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down",
+  "historyId" : "e0bef75bba4d6fefe4d83c9c9cf56242",
+  "time" : {
+    "start" : 1605113008453,
+    "stop" : 1605113023676,
+    "duration" : 15223
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Case Type123' not to contain 'Case Type123'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\UX013810\\workspace\\WCWRUI\\Tests\\Admin\\UC_AD_18_Deletes_KNOS_Code_Association\\DeleteKNOSTest.js:61:59)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'Case Type123' not to contain 'Case Type123'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\UX013810\\workspace\\WCWRUI\\Tests\\Admin\\UC_AD_18_Deletes_KNOS_Code_Association\\DeleteKNOSTest.js:61:59)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9240f642852bcf1b",
+      "name" : "Screenshot",
+      "source" : "9240f642852bcf1b.png",
+      "type" : "image/png",
+      "size" : 44745
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "testClass",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down"
+  }, {
+    "name" : "package",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a6d12afcefdf351.json",
+  "parameterValues" : [ ]
+}

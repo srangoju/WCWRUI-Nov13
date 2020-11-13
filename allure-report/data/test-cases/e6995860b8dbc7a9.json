@@ -1,0 +1,118 @@
+{
+  "uid" : "e6995860b8dbc7a9",
+  "name" : "AdminUpdateExistingUserTest - It should Update existing Admin User",
+  "fullName" : "Users.AdminUpdateExistingUserTest - It should Update existing Admin User",
+  "historyId" : "5839f18c4941a763b792eec4e9e937a6",
+  "time" : {
+    "start" : 1605160393942,
+    "stop" : 1605160411254,
+    "duration" : 17312
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c0f1c54366adb2fa",
+      "name" : "Screenshot",
+      "source" : "c0f1c54366adb2fa.png",
+      "type" : "image/png",
+      "size" : 61130
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Users"
+  }, {
+    "name" : "testClass",
+    "value" : "Users"
+  }, {
+    "name" : "testMethod",
+    "value" : "AdminUpdateExistingUserTest - It should Update existing Admin User"
+  }, {
+    "name" : "package",
+    "value" : "Users"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "e09607fef7cea71c",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/e09607fef7cea71c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174007741,
+          "stop" : 1602174019290,
+          "duration" : 11549
+        }
+      }, {
+        "uid" : "e23fa572957399f0",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/e23fa572957399f0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174007741,
+          "stop" : 1602174019290,
+          "duration" : 11549
+        }
+      }, {
+        "uid" : "a0dc0af0e172344c",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/a0dc0af0e172344c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174007741,
+          "stop" : 1602174019290,
+          "duration" : 11549
+        }
+      }, {
+        "uid" : "63cb5297cb8c29e0",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/63cb5297cb8c29e0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954899259,
+          "stop" : 1601954906326,
+          "duration" : 7067
+        }
+      }, {
+        "uid" : "e52eb46c1ff6e969",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/e52eb46c1ff6e969",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954899259,
+          "stop" : 1601954906326,
+          "duration" : 7067
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e6995860b8dbc7a9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,118 @@
+{
+  "uid" : "f59453e037a94740",
+  "name" : "UpdateRole - It should Update the User Role!",
+  "fullName" : "User Roles.UpdateRole - It should Update the User Role!",
+  "historyId" : "b39c51b16aa9a3762097c11cacd97aa8",
+  "time" : {
+    "start" : 1605160583103,
+    "stop" : 1605160594987,
+    "duration" : 11884
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c5c5e94bb30af8df",
+      "name" : "Screenshot",
+      "source" : "c5c5e94bb30af8df.png",
+      "type" : "image/png",
+      "size" : 43059
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "User Roles"
+  }, {
+    "name" : "testClass",
+    "value" : "User Roles"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateRole - It should Update the User Role!"
+  }, {
+    "name" : "package",
+    "value" : "User Roles"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "d7d86a583a11317a",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/d7d86a583a11317a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602173987097,
+          "stop" : 1602173988928,
+          "duration" : 1831
+        }
+      }, {
+        "uid" : "a8304c04414134c1",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/a8304c04414134c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602173987097,
+          "stop" : 1602173988928,
+          "duration" : 1831
+        }
+      }, {
+        "uid" : "bf71f0bae1eed1cd",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/bf71f0bae1eed1cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602173987097,
+          "stop" : 1602173988928,
+          "duration" : 1831
+        }
+      }, {
+        "uid" : "b44752e314ce4182",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/b44752e314ce4182",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954875642,
+          "stop" : 1601954877591,
+          "duration" : 1949
+        }
+      }, {
+        "uid" : "b6fd140bdf665cdc",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/b6fd140bdf665cdc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954875642,
+          "stop" : 1601954877591,
+          "duration" : 1949
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f59453e037a94740.json",
+  "parameterValues" : [ ]
+}

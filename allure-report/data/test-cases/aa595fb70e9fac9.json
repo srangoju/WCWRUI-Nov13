@@ -1,0 +1,62 @@
+{
+  "uid" : "aa595fb70e9fac9",
+  "name" : "createFederalCourtTest - IT should create new Federal court",
+  "fullName" : "Add Court.createFederalCourtTest - IT should create new Federal court",
+  "historyId" : "cbd0266a2bbb2650e8427b747382d03e",
+  "time" : {
+    "start" : 1605160476595,
+    "stop" : 1605160501073,
+    "duration" : 24478
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5639d233dbf70fac",
+      "name" : "Screenshot",
+      "source" : "5639d233dbf70fac.png",
+      "type" : "image/png",
+      "size" : 52923
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add Court"
+  }, {
+    "name" : "testClass",
+    "value" : "Add Court"
+  }, {
+    "name" : "testMethod",
+    "value" : "createFederalCourtTest - IT should create new Federal court"
+  }, {
+    "name" : "package",
+    "value" : "Add Court"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa595fb70e9fac9.json",
+  "parameterValues" : [ ]
+}

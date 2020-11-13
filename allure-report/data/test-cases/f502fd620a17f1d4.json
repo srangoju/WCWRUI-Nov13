@@ -1,0 +1,60 @@
+{
+  "uid" : "f502fd620a17f1d4",
+  "name" : "DeleteCourt - It should Delete Court!",
+  "fullName" : "Delete Court.DeleteCourt - It should Delete Court!",
+  "historyId" : "62d28ed8323fa05de7ea3b1e5c092db5",
+  "time" : {
+    "start" : 1605157733079,
+    "stop" : 1605157781140,
+    "duration" : 48061
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "91d26d7aa2f4e40f",
+      "name" : "Screenshot",
+      "source" : "91d26d7aa2f4e40f.png",
+      "type" : "image/png",
+      "size" : 53259
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Delete Court"
+  }, {
+    "name" : "testClass",
+    "value" : "Delete Court"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteCourt - It should Delete Court!"
+  }, {
+    "name" : "package",
+    "value" : "Delete Court"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f502fd620a17f1d4.json",
+  "parameterValues" : [ ]
+}

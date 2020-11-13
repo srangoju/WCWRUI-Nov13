@@ -1,0 +1,60 @@
+{
+  "uid" : "a3cc6742188f4fd0",
+  "name" : "DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down",
+  "fullName" : "Delete KNOS Relationship.DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down",
+  "historyId" : "e0bef75bba4d6fefe4d83c9c9cf56242",
+  "time" : {
+    "start" : 1605113304221,
+    "stop" : 1605113319372,
+    "duration" : 15151
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "94bc6a0232d42b3d",
+      "name" : "Screenshot",
+      "source" : "94bc6a0232d42b3d.png",
+      "type" : "image/png",
+      "size" : 58323
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "testClass",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down"
+  }, {
+    "name" : "package",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3cc6742188f4fd0.json",
+  "parameterValues" : [ ]
+}

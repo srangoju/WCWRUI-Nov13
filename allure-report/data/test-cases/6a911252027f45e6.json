@@ -1,0 +1,180 @@
+{
+  "uid" : "6a911252027f45e6",
+  "name" : "DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down",
+  "fullName" : "Delete KNOS Relationship.DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down",
+  "historyId" : "e0bef75bba4d6fefe4d83c9c9cf56242",
+  "time" : {
+    "start" : 1605160668995,
+    "stop" : 1605160684700,
+    "duration" : 15705
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c7c105f5e1619b47",
+      "name" : "Screenshot",
+      "source" : "c7c105f5e1619b47.png",
+      "type" : "image/png",
+      "size" : 58509
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "testClass",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down"
+  }, {
+    "name" : "package",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a3cc6742188f4fd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605113304221,
+        "stop" : 1605113319372,
+        "duration" : 15151
+      }
+    }, {
+      "uid" : "2f835e625f9c6c8b",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Case Type123' not to contain 'Case Type123'.",
+      "time" : {
+        "start" : 1605113086017,
+        "stop" : 1605113101188,
+        "duration" : 15171
+      }
+    }, {
+      "uid" : "1a6d12afcefdf351",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Case Type123' not to contain 'Case Type123'.",
+      "time" : {
+        "start" : 1605113008453,
+        "stop" : 1605113023676,
+        "duration" : 15223
+      }
+    }, {
+      "uid" : "af6e5fd71bc953ef",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Case Type123' not to contain 'Case Type123'.",
+      "time" : {
+        "start" : 1605112531600,
+        "stop" : 1605112546756,
+        "duration" : 15156
+      }
+    }, {
+      "uid" : "900fcc906199e450",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Case Type123' not to contain 'Case Type123'.",
+      "time" : {
+        "start" : 1605112457583,
+        "stop" : 1605112472576,
+        "duration" : 14993
+      }
+    }, {
+      "uid" : "6f9a275d14d0c4fe",
+      "status" : "failed",
+      "statusDetails" : "Failed: createFederalCourt is not defined",
+      "time" : {
+        "start" : 1605069869346,
+        "stop" : 1605069869416,
+        "duration" : 70
+      }
+    }, {
+      "uid" : "42b5672f77bce312",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, /html/body/app-root/div/div/div[1]/ul[1]/li[3]/a/i)",
+      "time" : {
+        "start" : 1604597384120,
+        "stop" : 1604597384738,
+        "duration" : 618
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "b9907911fa051161",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/b9907911fa051161",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174067458,
+          "stop" : 1602174074435,
+          "duration" : 6977
+        }
+      }, {
+        "uid" : "bb54781b69a16e05",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/bb54781b69a16e05",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174067458,
+          "stop" : 1602174074435,
+          "duration" : 6977
+        }
+      }, {
+        "uid" : "150c563659174183",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/150c563659174183",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174067458,
+          "stop" : 1602174074435,
+          "duration" : 6977
+        }
+      }, {
+        "uid" : "42df5fcd4f1eb2b6",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/42df5fcd4f1eb2b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954951762,
+          "stop" : 1601954958582,
+          "duration" : 6820
+        }
+      }, {
+        "uid" : "ac594686a532f399",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/ac594686a532f399",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954951762,
+          "stop" : 1601954958582,
+          "duration" : 6820
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6a911252027f45e6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,168 @@
+{
+  "uid" : "ecdf27d1b0a691e8",
+  "name" : "AddNewKNOS- It should add new casetype and subtype releationship to system!",
+  "fullName" : "Add KNOS Relationship.AddNewKNOS- It should add new casetype and subtype releationship to system!",
+  "historyId" : "8ee35f76439044cc2f07dfe77f0fb0ec",
+  "time" : {
+    "start" : 1605160619870,
+    "stop" : 1605160629627,
+    "duration" : 9757
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9fa0b9b72d988ac9",
+      "name" : "Screenshot",
+      "source" : "9fa0b9b72d988ac9.png",
+      "type" : "image/png",
+      "size" : 43080
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add KNOS Relationship"
+  }, {
+    "name" : "testClass",
+    "value" : "Add KNOS Relationship"
+  }, {
+    "name" : "testMethod",
+    "value" : "AddNewKNOS- It should add new casetype and subtype releationship to system!"
+  }, {
+    "name" : "package",
+    "value" : "Add KNOS Relationship"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b0e74f444e3a163c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605112260811,
+        "stop" : 1605112308127,
+        "duration" : 47316
+      }
+    }, {
+      "uid" : "f6ad04784449b7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605112025443,
+        "stop" : 1605112072577,
+        "duration" : 47134
+      }
+    }, {
+      "uid" : "895b97764427a1f0",
+      "status" : "failed",
+      "statusDetails" : "Failed: Wait timed out after 25006ms",
+      "time" : {
+        "start" : 1605111850384,
+        "stop" : 1605111913378,
+        "duration" : 62994
+      }
+    }, {
+      "uid" : "9627f7cfde93d329",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605111568672,
+        "stop" : 1605111616989,
+        "duration" : 48317
+      }
+    }, {
+      "uid" : "e98bfe774f6987fb",
+      "status" : "failed",
+      "statusDetails" : "Failed: Wait timed out after 25007ms",
+      "time" : {
+        "start" : 1605097035517,
+        "stop" : 1605097098219,
+        "duration" : 62702
+      }
+    }, {
+      "uid" : "c318fd9f71f3ef44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605069849096,
+        "stop" : 1605069858575,
+        "duration" : 9479
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "5c430d6fec257444",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/5c430d6fec257444",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174044807,
+          "stop" : 1602174048851,
+          "duration" : 4044
+        }
+      }, {
+        "uid" : "e939ff090411d53e",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/e939ff090411d53e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174044807,
+          "stop" : 1602174048851,
+          "duration" : 4044
+        }
+      }, {
+        "uid" : "6df4852dd20849a5",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/6df4852dd20849a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174044807,
+          "stop" : 1602174048851,
+          "duration" : 4044
+        }
+      }, {
+        "uid" : "5dcc2e412742d6a3",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/5dcc2e412742d6a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954932621,
+          "stop" : 1601954937391,
+          "duration" : 4770
+        }
+      }, {
+        "uid" : "3b0fe323c44897c8",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/3b0fe323c44897c8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954932621,
+          "stop" : 1601954937391,
+          "duration" : 4770
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ecdf27d1b0a691e8.json",
+  "parameterValues" : [ ]
+}

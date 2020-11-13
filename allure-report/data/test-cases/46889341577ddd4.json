@@ -1,0 +1,168 @@
+{
+  "uid" : "46889341577ddd4",
+  "name" : "CancelKNOS- It should cancel adding new casetype and subtype releationship to system!",
+  "fullName" : "Add KNOS Relationship.CancelKNOS- It should cancel adding new casetype and subtype releationship to system!",
+  "historyId" : "d74f0cbc309e46ba1a818cc0ad970f28",
+  "time" : {
+    "start" : 1605160645239,
+    "stop" : 1605160652904,
+    "duration" : 7665
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1735334390268e7",
+      "name" : "Screenshot",
+      "source" : "1735334390268e7.png",
+      "type" : "image/png",
+      "size" : 43080
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add KNOS Relationship"
+  }, {
+    "name" : "testClass",
+    "value" : "Add KNOS Relationship"
+  }, {
+    "name" : "testMethod",
+    "value" : "CancelKNOS- It should cancel adding new casetype and subtype releationship to system!"
+  }, {
+    "name" : "package",
+    "value" : "Add KNOS Relationship"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7752a0b7ad0f7e1e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605112323582,
+        "stop" : 1605112331025,
+        "duration" : 7443
+      }
+    }, {
+      "uid" : "d4c702e5ad208a47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605112077802,
+        "stop" : 1605112085253,
+        "duration" : 7451
+      }
+    }, {
+      "uid" : "4527a668e52506d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605111918588,
+        "stop" : 1605111926088,
+        "duration" : 7500
+      }
+    }, {
+      "uid" : "b3d830de28330dd2",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <button class=\"float-right\" type=\"button\"> is not clickable at point (1239,33) because another element <h1> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605111617109,
+        "stop" : 1605111617540,
+        "duration" : 431
+      }
+    }, {
+      "uid" : "48a17446d3ea5b0",
+      "status" : "failed",
+      "statusDetails" : "Failed: Wait timed out after 15000ms",
+      "time" : {
+        "start" : 1605097098327,
+        "stop" : 1605097113663,
+        "duration" : 15336
+      }
+    }, {
+      "uid" : "64b0b3c366a98b71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605069858656,
+        "stop" : 1605069865024,
+        "duration" : 6368
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "46230f9c05fbdf9b",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/46230f9c05fbdf9b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174041995,
+          "stop" : 1602174044807,
+          "duration" : 2812
+        }
+      }, {
+        "uid" : "dfcbc8e532f9fecf",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/dfcbc8e532f9fecf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174041995,
+          "stop" : 1602174044807,
+          "duration" : 2812
+        }
+      }, {
+        "uid" : "7363d7ac4c7a997e",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/7363d7ac4c7a997e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174041995,
+          "stop" : 1602174044807,
+          "duration" : 2812
+        }
+      }, {
+        "uid" : "fbb45349777146a2",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/fbb45349777146a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954929549,
+          "stop" : 1601954932621,
+          "duration" : 3072
+        }
+      }, {
+        "uid" : "642ff7e30801c797",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/642ff7e30801c797",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954929549,
+          "stop" : 1601954932621,
+          "duration" : 3072
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "46889341577ddd4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1605160431777' stop='1605160446512'>
+    <name>Delete User</name>
+    <title>Delete User</title>
+    <test-cases>
+        <test-case start='1605160431777' status='passed' stop='1605160446512'>
+            <name>DeleteUserTest - It should make a user active/inactive</name>
+            <title>DeleteUserTest - It should make a user active/inactive</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='051e3ca4-9632-4097-81a2-6ebf728cc4f6-attachment.png' type='image/png' size='59847'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

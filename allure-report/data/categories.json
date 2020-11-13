@@ -1,5 +1,206 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Failed: No element found using locator: By(xpath, /html/body/app-root/div/div/div[2]/app-courts/div/div/div[2]/div/app-create-court/div/div/div[1]/app-search-template[10]/div/div/input)",
+      "children" : [ {
+        "name" : "UpdateCourt - It should Update the Court Information!",
+        "uid" : "cafb27591b95cf96",
+        "parentUid" : "1c86ac887da09f5f43921a1d06ef3802",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605113887401,
+          "stop" : 1605113934173,
+          "duration" : 46772
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1c86ac887da09f5f43921a1d06ef3802"
+    }, {
+      "name" : "Expected 'The following Role : Super123 already exists.' to equal 'Role name or description cannot start or end with special characters'.",
+      "children" : [ {
+        "name" : "ValidationsTest - It should create new Role",
+        "uid" : "1d53c71df22b402",
+        "parentUid" : "1e63863ce0ec947759d9bfc3c154950b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605160542015,
+          "stop" : 1605160552658,
+          "duration" : 10643
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1e63863ce0ec947759d9bfc3c154950b"
+    }, {
+      "name" : "Expected 'The following Role : SuperUserSuperUserSuperUser already exists.' to equal 'Role name or description cannot start or end with special characters'.",
+      "children" : [ {
+        "name" : "ValidationsTest - It should not create new role as role name is more thatn 20 characters",
+        "uid" : "afb99564b201ff7",
+        "parentUid" : "2378c3489512550719ce26fc67d798d8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605160552658,
+          "stop" : 1605160563312,
+          "duration" : 10654
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2378c3489512550719ce26fc67d798d8"
+    }, {
+      "name" : "Expected 'The following Role : Super already exists.' to equal 'Some Error occurred while creating/updating the Role'.",
+      "children" : [ {
+        "name" : "ValidationsTest - It should not create new role as the description is more thatn 1000 characters",
+        "uid" : "94015b0acae6ed7e",
+        "parentUid" : "6ecc1214ffdef903b55111482635b281",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605160563312,
+          "stop" : 1605160574369,
+          "duration" : 11057
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6ecc1214ffdef903b55111482635b281"
+    }, {
+      "name" : "Failed: Element <i class=\"icon-case-type\"> is not clickable at point (76,425) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "children" : [ {
+        "name" : "AdminAddsCaseTypeTest - It should Add New Case Type without Entering value",
+        "uid" : "29d7e56ebc4125c4",
+        "parentUid" : "04f11b486f341b6f92ba1c6d97cf7d5f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605160684707,
+          "stop" : 1605160684901,
+          "duration" : 194
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "AdminAddsCaseTypeTest - It should Add New Case SubType",
+        "uid" : "d34672a5b24d554e",
+        "parentUid" : "04f11b486f341b6f92ba1c6d97cf7d5f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605160684901,
+          "stop" : 1605160685054,
+          "duration" : 153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "AdminDeletesCaseTypeTest - It should delete a random  Type Name",
+        "uid" : "b026c1c2deb1f98d",
+        "parentUid" : "04f11b486f341b6f92ba1c6d97cf7d5f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605160685054,
+          "stop" : 1605160685208,
+          "duration" : 154
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "AdminUpdateCaseTypeTest1 - It should Update Case Type",
+        "uid" : "49c4c88f58738ad6",
+        "parentUid" : "04f11b486f341b6f92ba1c6d97cf7d5f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605160685223,
+          "stop" : 1605160685371,
+          "duration" : 148
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "04f11b486f341b6f92ba1c6d97cf7d5f"
+    }, {
+      "name" : "Failed: Element <a> is not clickable at point (76,427) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "children" : [ {
+        "name" : "AdminDeletesCaseTypeTest - It should delete a random  Type Name",
+        "uid" : "2e1607b5c0f8b581",
+        "parentUid" : "9b192dba04107239d9fcf87172420509",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605160685371,
+          "stop" : 1605160685540,
+          "duration" : 169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9b192dba04107239d9fcf87172420509"
+    }, {
+      "name" : "Failed: Element <a> is not clickable at point (74,477) because another element <ngb-modal-window class=\"modal fade show\"> obscures it\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "children" : [ {
+        "name" : "AdminAddsCaseSubTypeTest - It should Add New Case SubType without Entering value",
+        "uid" : "706368e458f8bff1",
+        "parentUid" : "0a6bc358287c85c5c3311c6a30ea2073",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605160685540,
+          "stop" : 1605160685709,
+          "duration" : 169
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "AdminAddsCaseSubTypeTest - It should Add New Case SubType",
+        "uid" : "1456cbcc032f094a",
+        "parentUid" : "0a6bc358287c85c5c3311c6a30ea2073",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605160685709,
+          "stop" : 1605160685888,
+          "duration" : 179
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "AdminUpdatesCaseSubType - It should update a Case sub type Name",
+        "uid" : "bd8f6c402a950924",
+        "parentUid" : "0a6bc358287c85c5c3311c6a30ea2073",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605160685888,
+          "stop" : 1605160686041,
+          "duration" : 153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "AdminDeletesCaseSubTypeTest - It should delete a Case Subtype",
+        "uid" : "2f7c5e8a94ff5e56",
+        "parentUid" : "0a6bc358287c85c5c3311c6a30ea2073",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605160686057,
+          "stop" : 1605160686188,
+          "duration" : 131
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0a6bc358287c85c5c3311c6a30ea2073"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
 }

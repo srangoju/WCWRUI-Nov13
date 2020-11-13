@@ -1,5 +1,5 @@
-var loginDetails = require(protractor.basePath + '/Pages/login');
-var createCourt = require(protractor.basePath + '/Pages/createCourt');
+var loginDetails = require(protractor.basePath + '/PageObjects/login');
+var createCourt = require(protractor.basePath + '/PageObjects/createCourt');
 var testdata = require(protractor.basePath + '/Testdata/data.json');
 const EC = protractor.ExpectedConditions;
 

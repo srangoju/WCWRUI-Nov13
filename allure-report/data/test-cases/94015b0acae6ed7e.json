@@ -1,0 +1,131 @@
+{
+  "uid" : "94015b0acae6ed7e",
+  "name" : "ValidationsTest - It should not create new role as the description is more thatn 1000 characters",
+  "fullName" : "Validations for Add New Role.ValidationsTest - It should not create new role as the description is more thatn 1000 characters",
+  "historyId" : "ae0ad20c41b265d81039b2586d1980f7",
+  "time" : {
+    "start" : 1605160563312,
+    "stop" : 1605160574369,
+    "duration" : 11057
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'The following Role : Super already exists.' to equal 'Some Error occurred while creating/updating the Role'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\X013810\\.jenkins\\WCWRUIAutomation\\WCWRUI\\Tests\\Admin\\UC_AD_24_Roles\\ValidationTest.js:105:58)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'The following Role : Super already exists.' to equal 'Some Error occurred while creating/updating the Role'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\X013810\\.jenkins\\WCWRUIAutomation\\WCWRUI\\Tests\\Admin\\UC_AD_24_Roles\\ValidationTest.js:105:58)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "46af1a1131d0f3",
+      "name" : "Screenshot",
+      "source" : "46af1a1131d0f3.png",
+      "type" : "image/png",
+      "size" : 41820
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Validations for Add New Role"
+  }, {
+    "name" : "testClass",
+    "value" : "Validations for Add New Role"
+  }, {
+    "name" : "testMethod",
+    "value" : "ValidationsTest - It should not create new role as the description is more thatn 1000 characters"
+  }, {
+    "name" : "package",
+    "value" : "Validations for Add New Role"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 9,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "9e54d9b4332bf666",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/9e54d9b4332bf666",
+        "status" : "failed",
+        "statusDetails" : "Expected 'The following Role : Super already exists.' to equal 'Some Error occurred while creating/updating the Role'.",
+        "time" : {
+          "start" : 1602173980862,
+          "stop" : 1602173984351,
+          "duration" : 3489
+        }
+      }, {
+        "uid" : "344de6beea903c92",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/344de6beea903c92",
+        "status" : "failed",
+        "statusDetails" : "Expected 'The following Role : Super already exists.' to equal 'Some Error occurred while creating/updating the Role'.",
+        "time" : {
+          "start" : 1602173980862,
+          "stop" : 1602173984351,
+          "duration" : 3489
+        }
+      }, {
+        "uid" : "327587ddec9a341a",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/327587ddec9a341a",
+        "status" : "failed",
+        "statusDetails" : "Expected 'The following Role : Super already exists.' to equal 'Some Error occurred while creating/updating the Role'.",
+        "time" : {
+          "start" : 1602173980862,
+          "stop" : 1602173984351,
+          "duration" : 3489
+        }
+      }, {
+        "uid" : "9086b0b473ecc9c",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/9086b0b473ecc9c",
+        "status" : "failed",
+        "statusDetails" : "Expected 'The following Role : Super already exists.' to equal 'Some Error occurred while creating/updating the Role'.",
+        "time" : {
+          "start" : 1601954869309,
+          "stop" : 1601954872719,
+          "duration" : 3410
+        }
+      }, {
+        "uid" : "ae5d24aaa4d2b9d4",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/ae5d24aaa4d2b9d4",
+        "status" : "failed",
+        "statusDetails" : "Expected 'The following Role : Super already exists.' to equal 'Some Error occurred while creating/updating the Role'.",
+        "time" : {
+          "start" : 1601954869309,
+          "stop" : 1601954872719,
+          "duration" : 3410
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "94015b0acae6ed7e.json",
+  "parameterValues" : [ ]
+}

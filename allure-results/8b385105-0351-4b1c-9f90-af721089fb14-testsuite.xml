@@ -1,0 +1,86 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1605160542015' stop='1605160583103'>
+    <name>Validations for Add New Role</name>
+    <title>Validations for Add New Role</title>
+    <test-cases>
+        <test-case start='1605160542015' status='failed' stop='1605160552658'>
+            <name>ValidationsTest - It should create new Role</name>
+            <title>ValidationsTest - It should create new Role</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='47b68c63-0877-49cf-b25a-80ee7b6dfe53-attachment.png' type='image/png' size='41820'/>
+            </attachments>
+            <failure>
+                <message>Expected 'The following Role : Super123 already exists.' to equal 'Role name or description cannot start or end with special characters'.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (C:\Users\X013810\.jenkins\WCWRUIAutomation\WCWRUI\Tests\Admin\UC_AD_24_Roles\ValidationTest.js:69:61)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1605160552658' status='failed' stop='1605160563312'>
+            <name>ValidationsTest - It should not create new role as role name is more thatn 20 characters</name>
+            <title>ValidationsTest - It should not create new role as role name is more thatn 20 characters</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b656bd72-8d57-4ade-812a-8c0d0026d235-attachment.png' type='image/png' size='41820'/>
+            </attachments>
+            <failure>
+                <message>Expected 'The following Role : SuperUserSuperUserSuperUser already exists.' to equal 'Role name or description cannot start or end with special characters'.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (C:\Users\X013810\.jenkins\WCWRUIAutomation\WCWRUI\Tests\Admin\UC_AD_24_Roles\ValidationTest.js:88:58)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1605160563312' status='failed' stop='1605160574369'>
+            <name>ValidationsTest - It should not create new role as the description is more thatn 1000 characters</name>
+            <title>ValidationsTest - It should not create new role as the description is more thatn 1000 characters</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b52b9d75-dca6-41d7-9ec6-d397c7d8f623-attachment.png' type='image/png' size='41820'/>
+            </attachments>
+            <failure>
+                <message>Expected 'The following Role : Super already exists.' to equal 'Some Error occurred while creating/updating the Role'.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (C:\Users\X013810\.jenkins\WCWRUIAutomation\WCWRUI\Tests\Admin\UC_AD_24_Roles\ValidationTest.js:105:58)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25
+                    at C:\Users\X013810\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1605160574369' status='passed' stop='1605160583103'>
+            <name>ValidationsTest - It should not create new role as the role name contains special characters</name>
+            <title>ValidationsTest - It should not create new role as the role name contains special characters</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a71ac7ea-53b3-4cc0-93c3-47360849786d-attachment.png' type='image/png' size='53933'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

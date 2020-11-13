@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1605160501088' stop='1605160523994'>
+    <name>Update Court</name>
+    <title>Update Court</title>
+    <test-cases>
+        <test-case start='1605160501088' status='passed' stop='1605160523994'>
+            <name>updateCourt - It should Update the Court Information!</name>
+            <title>updateCourt - It should Update the Court Information!</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6094aa86-e550-4baf-bd34-34b097cebaca-attachment.png' type='image/png' size='53553'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

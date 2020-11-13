@@ -1,0 +1,118 @@
+{
+  "uid" : "9b590405944630f6",
+  "name" : "RejectReasonTest - It should delete a random  Reason Name",
+  "fullName" : "Reject Reason.RejectReasonTest - It should delete a random  Reason Name",
+  "historyId" : "3ab567f464b2c573d9e59a9c60e89781",
+  "time" : {
+    "start" : 1605160613655,
+    "stop" : 1605160619854,
+    "duration" : 6199
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c8b8f6c3c1573f3",
+      "name" : "Screenshot",
+      "source" : "c8b8f6c3c1573f3.png",
+      "type" : "image/png",
+      "size" : 26445
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Reject Reason"
+  }, {
+    "name" : "testClass",
+    "value" : "Reject Reason"
+  }, {
+    "name" : "testMethod",
+    "value" : "RejectReasonTest - It should delete a random  Reason Name"
+  }, {
+    "name" : "package",
+    "value" : "Reject Reason"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 6,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "d6a02954a79a0a10",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/d6a02954a79a0a10",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954896813,
+          "stop" : 1601954899221,
+          "duration" : 2408
+        }
+      }, {
+        "uid" : "ba6d15557c03535e",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/ba6d15557c03535e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954896813,
+          "stop" : 1601954899221,
+          "duration" : 2408
+        }
+      }, {
+        "uid" : "b7ab42b049cd2c23",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/5/allure/#testresult/b7ab42b049cd2c23",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954896813,
+          "stop" : 1601954899221,
+          "duration" : 2408
+        }
+      }, {
+        "uid" : "90c3862495297075",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/4/allure/#testresult/90c3862495297075",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954896813,
+          "stop" : 1601954899221,
+          "duration" : 2408
+        }
+      }, {
+        "uid" : "6e0ecab58a946557",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/3/allure/#testresult/6e0ecab58a946557",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954896813,
+          "stop" : 1601954899221,
+          "duration" : 2408
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "9b590405944630f6.json",
+  "parameterValues" : [ ]
+}

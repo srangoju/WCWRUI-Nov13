@@ -1,0 +1,60 @@
+{
+  "uid" : "bfb47f29783229dd",
+  "name" : "updateCourt - It should Update the Court Information!",
+  "fullName" : "Update Court.updateCourt - It should Update the Court Information!",
+  "historyId" : "2c059d411161faf98f5ef5902c0de2aa",
+  "time" : {
+    "start" : 1605153529574,
+    "stop" : 1605153589841,
+    "duration" : 60267
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b4fb64c289d23b19",
+      "name" : "Screenshot",
+      "source" : "b4fb64c289d23b19.png",
+      "type" : "image/png",
+      "size" : 24851
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Update Court"
+  }, {
+    "name" : "testClass",
+    "value" : "Update Court"
+  }, {
+    "name" : "testMethod",
+    "value" : "updateCourt - It should Update the Court Information!"
+  }, {
+    "name" : "package",
+    "value" : "Update Court"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfb47f29783229dd.json",
+  "parameterValues" : [ ]
+}

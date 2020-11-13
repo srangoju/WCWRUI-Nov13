@@ -1,0 +1,60 @@
+{
+  "uid" : "e296ab677549bd48",
+  "name" : "Verify KNOS- Verifying relationship in Associate KNOS Codes drop down",
+  "fullName" : "Add KNOS Relationship.Verify KNOS- Verifying relationship in Associate KNOS Codes drop down",
+  "historyId" : "88973440d32753e3f8f21336b039e0e1",
+  "time" : {
+    "start" : 1605112308128,
+    "stop" : 1605112323582,
+    "duration" : 15454
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6171bda41f2695f7",
+      "name" : "Screenshot",
+      "source" : "6171bda41f2695f7.png",
+      "type" : "image/png",
+      "size" : 59937
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add KNOS Relationship"
+  }, {
+    "name" : "testClass",
+    "value" : "Add KNOS Relationship"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify KNOS- Verifying relationship in Associate KNOS Codes drop down"
+  }, {
+    "name" : "package",
+    "value" : "Add KNOS Relationship"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e296ab677549bd48.json",
+  "parameterValues" : [ ]
+}

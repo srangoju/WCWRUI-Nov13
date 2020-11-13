@@ -38,8 +38,8 @@ var description_value4 = descriptionCell4.v;
 var description_value5 = descriptionCell5.v;
 
 
-var loginDetails = require(protractor.basePath + '/Pages/login');
-var validations = require(protractor.basePath + '/Pages/validations');
+var loginDetails = require(protractor.basePath + '/PageObjects/login');
+var validations = require(protractor.basePath + '/PageObjects/validations');
 var testdata = require(protractor.basePath + '/Testdata/data.json');
 const EC = protractor.ExpectedConditions;
 
@@ -48,26 +48,26 @@ describe('Validations for Add New Role', function () {
 
 	 beforeEach(()=> { 
 		    validations.clickOnUserRole.click();
-		    //browser.sleep(2000);
+		    browser.sleep(1000);
 		    validations.createAssociation.click();
-		    //browser.sleep(2000);
+		    browser.sleep(1000);
 	 });
   
 it('ValidationsTest - It should create new Role', function(){
 	  
 	  //browser.ignoreSynchronization = false;	  
 	  validations.roleName.sendKeys(roleName_value2);
-	  //browser.sleep(2000);
+	  browser.sleep(1000);
 	  validations.description.sendKeys(description_value2);
-	  //browser.sleep(2000);
+	  browser.sleep(1000);
 	  validations.canFillCasesInfo.click();
-	  //browser.sleep(2000);
+	  browser.sleep(1000);
 	  validations.canRejectCases.click();
-	  //browser.sleep(2000);
+	  browser.sleep(1000);
 	  validations.add.click();
 	  browser.sleep(1000);
       expect(element(by.css('.alert-container')).getText()).toEqual('Role name or description cannot start or end with special characters');
-      //browser.sleep(3000);
+      browser.sleep(2000);
       
   	
   });
@@ -76,34 +76,34 @@ it('ValidationsTest - It should create new Role', function(){
 	  
 	  //browser.ignoreSynchronization = false;	  
 	  validations.roleName.sendKeys(roleName_value3);
-	  //browser.sleep(2000);
+	  browser.sleep(1000);
 	  validations.description.sendKeys(description_value3);
-	  //browser.sleep(2000);	
+	  browser.sleep(1000);	
 	  validations.canFillCasesInfo.click();
-	  //browser.sleep(2000);
+	  browser.sleep(1000);
 	  validations.canRejectCases.click();
-	  //browser.sleep(2000);
+	  browser.sleep(1000);
 	  validations.add.click();
 	  browser.sleep(1000);
 	  expect(element(by.css('.alert-container')).getText()).toEqual('Role name or description cannot start or end with special characters');
-      //browser.sleep(3000);	
+	  browser.sleep(2000);	
   });
   
  it('ValidationsTest - It should not create new role as the description is more thatn 1000 characters', function(){
 	  
 	  //browser.ignoreSynchronization = false;	  
 	  validations.roleName.sendKeys(roleName_value4);
-	  //browser.sleep(2000);
+	  browser.sleep(1000);
 	  validations.description.sendKeys(description_value4);
-	  //browser.sleep(2000);	
+	  browser.sleep(1000);	
 	  validations.canFillCasesInfo.click();
-	  //browser.sleep(2000);
+	  browser.sleep(1000);
 	  validations.canRejectCases.click();
-	  //browser.sleep(2000);
+	  browser.sleep(1000);
 	  validations.add.click();
 	  browser.sleep(1000);
 	  expect(element(by.css('.alert-container')).getText()).toEqual('Some Error occurred while creating/updating the Role');
-      //browser.sleep(3000);
+	  browser.sleep(2000);
 
   }); 
  
@@ -111,13 +111,13 @@ it('ValidationsTest - It should create new Role', function(){
 	  
 	  //browser.ignoreSynchronization = false;	  
 	  validations.roleName.sendKeys(roleName_value5);
-	  //browser.sleep(2000);
+	  browser.sleep(1000);
 	  validations.description.sendKeys(description_value5);
-	  //browser.sleep(2000);
+	  browser.sleep(1000);
 	  validations.canFillCasesInfo.click();
-	  //browser.sleep(2000);
+	  browser.sleep(1000);
 	  validations.canRejectCases.click();
-	  //browser.sleep(2000);
+	  browser.sleep(1000);
 	  validations.add.click();
 	  browser.sleep(1000);
 	  expect(element(by.css('.alert-container')).getText()).toEqual('Role name or description cannot start or end with special characters');

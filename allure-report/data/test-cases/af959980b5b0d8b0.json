@@ -1,0 +1,60 @@
+{
+  "uid" : "af959980b5b0d8b0",
+  "name" : "createStateCourtTest - IT should create new State court",
+  "fullName" : "Create New State Court.createStateCourtTest - IT should create new State court",
+  "historyId" : "c2c0c35c2193700b281f3bd4b79c3ae7",
+  "time" : {
+    "start" : 1605113993836,
+    "stop" : 1605114062581,
+    "duration" : 68745
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7d63a0999b36b067",
+      "name" : "Screenshot",
+      "source" : "7d63a0999b36b067.png",
+      "type" : "image/png",
+      "size" : 52526
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Create New State Court"
+  }, {
+    "name" : "testClass",
+    "value" : "Create New State Court"
+  }, {
+    "name" : "testMethod",
+    "value" : "createStateCourtTest - IT should create new State court"
+  }, {
+    "name" : "package",
+    "value" : "Create New State Court"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af959980b5b0d8b0.json",
+  "parameterValues" : [ ]
+}

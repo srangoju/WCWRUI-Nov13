@@ -18,7 +18,7 @@
   "priority":"83",
   "priorityFederal":"4",
   "setHours":"13:00",
-  "setHoursFederal":"15:00",
+  "setHoursFederal":"13:00",
   "turnAroundTime":"40",
   "turnAroundTimeFederal":"4",
   "rejectReason": "Case number never assign",
@@ -26,6 +26,18 @@
   "adminName": "Admin",
   "locationToolTip": "Location",
   "buttonLabel": "Button",
-  "ruleNameDescription": "CVis hardcoded; YYYY is year; - is hardcoded; NNNNNN increments for the next case number"
+  "ruleNameDescription": "CVis hardcoded; YYYY is year; - is hardcoded; NNNNNN increments for the next case number",
+  "description": "Will have all workflow access except Admin",
+  "reason" : "Test mp reason",
+  "subtype" : "case sub type",
+  "name" : "mp testing",
+  "lasttname" : "mp  name",
+  "mailid": "Prashanthi.mol@thomsonreuters.com",
+  "lognid" : "APM094",
+  "firstNamebutton" :"Pm test",
+  "lastNamebutton" : "Pm one",
+  "loginIdButton"  : "478802",
+  "searchRole" : "Super user",
+  "caseupdates" : "Updatetype"
   
 }

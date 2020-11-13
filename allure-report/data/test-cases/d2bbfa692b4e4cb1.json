@@ -1,0 +1,138 @@
+{
+  "uid" : "d2bbfa692b4e4cb1",
+  "name" : "AddNewRoleTest - It should Add New Role!",
+  "fullName" : "User Roles.AddNewRoleTest - It should Add New Role!",
+  "historyId" : "419d6df1c155220f7a5b8589d74183ba",
+  "time" : {
+    "start" : 1605160534512,
+    "stop" : 1605160542015,
+    "duration" : 7503
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "723db7116425fdae",
+      "name" : "Screenshot",
+      "source" : "723db7116425fdae.png",
+      "type" : "image/png",
+      "size" : 42860
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "User Roles"
+  }, {
+    "name" : "testClass",
+    "value" : "User Roles"
+  }, {
+    "name" : "testMethod",
+    "value" : "AddNewRoleTest - It should Add New Role!"
+  }, {
+    "name" : "package",
+    "value" : "User Roles"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "427342eb5b4f4c3",
+      "status" : "failed",
+      "statusDetails" : "Failed: expect(...).isDisplayed is not a function",
+      "time" : {
+        "start" : 1604370866958,
+        "stop" : 1604370903480,
+        "duration" : 36522
+      }
+    }, {
+      "uid" : "49701e41206f7b87",
+      "status" : "failed",
+      "statusDetails" : "Failed: expect(...).isDisplayed is not a function",
+      "time" : {
+        "start" : 1604370430778,
+        "stop" : 1604370466401,
+        "duration" : 35623
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "2803a04c0ff927e6",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/24/allure/#testresult/2803a04c0ff927e6",
+        "status" : "failed",
+        "statusDetails" : "Failed: expect(...).isDisplayed is not a function",
+        "time" : {
+          "start" : 1604370866958,
+          "stop" : 1604370903480,
+          "duration" : 36522
+        }
+      }, {
+        "uid" : "231c14cf61ce07f6",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/23/allure/#testresult/231c14cf61ce07f6",
+        "status" : "failed",
+        "statusDetails" : "Failed: expect(...).isDisplayed is not a function",
+        "time" : {
+          "start" : 1604370866958,
+          "stop" : 1604370903480,
+          "duration" : 36522
+        }
+      }, {
+        "uid" : "f807c93d0d022fb1",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/f807c93d0d022fb1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602173933848,
+          "stop" : 1602173974727,
+          "duration" : 40879
+        }
+      }, {
+        "uid" : "2b0b11cfa18f296f",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/2b0b11cfa18f296f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602173933848,
+          "stop" : 1602173974727,
+          "duration" : 40879
+        }
+      }, {
+        "uid" : "16a172069b623b4c",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/16a172069b623b4c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602173933848,
+          "stop" : 1602173974727,
+          "duration" : 40879
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "d2bbfa692b4e4cb1.json",
+  "parameterValues" : [ ]
+}

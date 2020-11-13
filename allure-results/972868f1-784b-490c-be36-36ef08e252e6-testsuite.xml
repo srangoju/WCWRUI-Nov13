@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1605160476595' stop='1605160501073'>
+    <name>Add Court</name>
+    <title>Add Court</title>
+    <test-cases>
+        <test-case start='1605160476595' status='passed' stop='1605160501073'>
+            <name>createFederalCourtTest - IT should create new Federal court</name>
+            <title>createFederalCourtTest - IT should create new Federal court</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='17986b2a-a964-43b8-9767-db65885ee9e9-attachment.png' type='image/png' size='52923'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,118 @@
+{
+  "uid" : "4c468ae162e50994",
+  "name" : "ValidationsTest - It should not create new role as the role name contains special characters",
+  "fullName" : "Validations for Add New Role.ValidationsTest - It should not create new role as the role name contains special characters",
+  "historyId" : "ddc2ec5cade8d65627d64f2a21a06fc5",
+  "time" : {
+    "start" : 1605160574369,
+    "stop" : 1605160583103,
+    "duration" : 8734
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "99294e0f0682e61c",
+      "name" : "Screenshot",
+      "source" : "99294e0f0682e61c.png",
+      "type" : "image/png",
+      "size" : 53933
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Validations for Add New Role"
+  }, {
+    "name" : "testClass",
+    "value" : "Validations for Add New Role"
+  }, {
+    "name" : "testMethod",
+    "value" : "ValidationsTest - It should not create new role as the role name contains special characters"
+  }, {
+    "name" : "package",
+    "value" : "Validations for Add New Role"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "9f835fe074573fd7",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/9f835fe074573fd7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602173984351,
+          "stop" : 1602173987090,
+          "duration" : 2739
+        }
+      }, {
+        "uid" : "f37a7e88093982d2",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/f37a7e88093982d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602173984351,
+          "stop" : 1602173987090,
+          "duration" : 2739
+        }
+      }, {
+        "uid" : "cc3b5ae19a7f63ba",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/cc3b5ae19a7f63ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602173984351,
+          "stop" : 1602173987090,
+          "duration" : 2739
+        }
+      }, {
+        "uid" : "eba8bcc77d64217a",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/eba8bcc77d64217a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954872719,
+          "stop" : 1601954875600,
+          "duration" : 2881
+        }
+      }, {
+        "uid" : "69810a73e93c2806",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/69810a73e93c2806",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954872719,
+          "stop" : 1601954875600,
+          "duration" : 2881
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "4c468ae162e50994.json",
+  "parameterValues" : [ ]
+}

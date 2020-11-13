@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1605160619870' stop='1605160652904'>
+    <name>Add KNOS Relationship</name>
+    <title>Add KNOS Relationship</title>
+    <test-cases>
+        <test-case start='1605160619870' status='passed' stop='1605160629627'>
+            <name>AddNewKNOS- It should add new casetype and subtype releationship to system!</name>
+            <title>AddNewKNOS- It should add new casetype and subtype releationship to system!</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='83569b3d-b6a9-4307-b650-61f84549bc10-attachment.png' type='image/png' size='43080'/>
+            </attachments>
+        </test-case>
+        <test-case start='1605160629627' status='passed' stop='1605160645239'>
+            <name>Verify KNOS- Verifying relationship in Associate KNOS Codes drop down</name>
+            <title>Verify KNOS- Verifying relationship in Associate KNOS Codes drop down</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='73c6eedd-1937-4951-8b0f-772f22b0f588-attachment.png' type='image/png' size='59312'/>
+            </attachments>
+        </test-case>
+        <test-case start='1605160645239' status='passed' stop='1605160652904'>
+            <name>CancelKNOS- It should cancel adding new casetype and subtype releationship to system!</name>
+            <title>CancelKNOS- It should cancel adding new casetype and subtype releationship to system!</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='348182d5-f831-4ff0-9f28-f1d219494b71-attachment.png' type='image/png' size='43080'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

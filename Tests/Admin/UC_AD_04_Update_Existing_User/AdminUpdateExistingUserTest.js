@@ -1,5 +1,5 @@
-var loginDetails = require(protractor.basePath + '/Pages/login');
-var updateExistingUser = require(protractor.basePath + '/Pages/adminUpdateExistingUser');
+var loginDetails = require(protractor.basePath + '/PageObjects/login');
+var updateExistingUser = require(protractor.basePath + '/PageObjects/adminUpdateExistingUser');
 var testdata = require(protractor.basePath + '/Testdata/data.json');
 var EC = protractor.ExpectedConditions;
 
@@ -15,16 +15,22 @@ it('AdminUpdateExistingUserTest - It should Update existing Admin User', functio
  browser.sleep(8000);
  
  updateExistingUser.roleName.click();
+ browser.sleep(1000);
  
  updateExistingUser.searchRole.sendKeys(testdata.adminName);
+ browser.sleep(1000);
  
  updateExistingUser.applyButton.click();
+ browser.sleep(1000);
  
  updateExistingUser.clickOnAdminRow.click();
+ browser.sleep(1000);
  
- updateExistingUser.firstName.sendKeys('Updating');	  
+ updateExistingUser.firstName.sendKeys('Updating');
+ browser.sleep(1000);
  
  updateExistingUser.clickOnUpdate.click();
+ browser.sleep(1000);
  
  updateExistingUser.clickOnSendMail.click();
  browser.sleep(1000);
@@ -33,49 +39,49 @@ it('AdminUpdateExistingUserTest - It should Update existing Admin User', functio
 */
  
  expect(element(by.css('.alert-container')).isDisplayed());	  
-
+ browser.wait(EC.visibilityOf(element(by.xpath("/html/body/app-root/div/div/div[1]/ul[1]/li[3]/a/i"))), 8000);
 
 }); 
 
  
  
-/*it('AdminUpdateExistingUserTest - It should Update existing Case Manager', function(){
+it('AdminUpdateExistingUserTest - It should Update existing Case Manager', function(){
  
  updateExistingUser.clickOnUsers.click();
- browser.sleep(5000);
+ browser.sleep(8000);
  
  updateExistingUser.roleName.click();
- browser.sleep(4000);
+ browser.sleep(1000);
  
  updateExistingUser.searchRole.sendKeys(testdata.superUserName);
- browser.sleep(3000);
+ browser.sleep(1000);
  
  updateExistingUser.applyButton.click();
- browser.sleep(4000);
+ browser.sleep(1000);
  
  updateExistingUser.clickOnSuperUserRow.click();
- browser.sleep(4000);	
+ browser.sleep(1000);	
  
  updateExistingUser.firstName.sendKeys('JJ');	  
- //browser.sleep(2000);
+ browser.sleep(1000);
  
  updateExistingUser.editRole.click();
- //browser.sleep(2000);
+ browser.sleep(1000);
  
  updateExistingUser.selectAll.click();
- //browser.sleep(2000);
+ browser.sleep(1000);
  
  updateExistingUser.clickOnDone.click();
- //browser.sleep(2000);
+ browser.sleep(1000);
  
  updateExistingUser.clickOnUpdate.click();
- //browser.sleep(2000);
+ browser.sleep(1000);
  
  updateExistingUser.clickOnSendMail.click();
  
- expect(element(by.css('.alert-container')).getText()).toEqual('Updated Successfully');	  
- //browser.sleep(2000);
+ expect(element(by.css('.alert-container')).isDisplayed());	  
+ browser.wait(EC.visibilityOf(element(by.xpath("/html/body/app-root/div/div/div[1]/ul[1]/li[3]/a/i"))), 8000);
  
 }); 
-*/  
+ 
 });

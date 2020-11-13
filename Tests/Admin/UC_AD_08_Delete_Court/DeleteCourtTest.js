@@ -1,10 +1,12 @@
-var loginDetails = require(protractor.basePath + '/Pages/login');
-var deleteCourt = require(protractor.basePath + '/Pages/deleteCourt');
+var loginDetails = require(protractor.basePath + '/PageObjects/login');
+var deleteCourt = require(protractor.basePath + '/PageObjects/deleteCourt');
 var testdata = require(protractor.basePath + '/Testdata/data.json');
 var EC = protractor.ExpectedConditions;
 
 
 describe('Delete Court', function () {
+	
+	//loginDetails.loginToWCWR();
 	
  it('DeleteCourt - It should Delete Court!', function(){
 	  
@@ -15,19 +17,19 @@ describe('Delete Court', function () {
   	 //deleteCourt.searchCourt.clear();
   	 //browser.sleep(3000);
   	 deleteCourt.searchCourt.sendKeys(testdata.courtName);
-  	 //browser.sleep(3000);
+  	 browser.sleep(1000);
   	 deleteCourt.applyButton.click();
-  	 //browser.sleep(3000);
+  	 browser.sleep(1000);
   	 deleteCourt.clickOnRow.click();
-  	 //browser.sleep(2000);
+  	 browser.sleep(1000);
   	 deleteCourt.clickCancel.click();
-  	 //browser.sleep(2000);
+  	 browser.sleep(1000);
   	 deleteCourt.deleteCourt.click();
-  	 //browser.sleep(5000);
+  	 browser.sleep(1000);
   	 deleteCourt.clickOnDelete.click();
   	 browser.sleep(1000);
   	 expect(element(by.css('.alert-container')).getText()).toEqual('Court deleted successfully');
-     //browser.sleep(3000);
+     browser.sleep(2000);
 
  });
  

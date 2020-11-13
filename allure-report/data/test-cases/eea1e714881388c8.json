@@ -1,0 +1,62 @@
+{
+  "uid" : "eea1e714881388c8",
+  "name" : "DeleteUserTest - It should make a user active/inactive",
+  "fullName" : "Delete User.DeleteUserTest - It should make a user active/inactive",
+  "historyId" : "a9767e92cebf1270c559f5847ae06fe7",
+  "time" : {
+    "start" : 1605160431777,
+    "stop" : 1605160446512,
+    "duration" : 14735
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fd3661f44638a894",
+      "name" : "Screenshot",
+      "source" : "fd3661f44638a894.png",
+      "type" : "image/png",
+      "size" : 59847
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Delete User"
+  }, {
+    "name" : "testClass",
+    "value" : "Delete User"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteUserTest - It should make a user active/inactive"
+  }, {
+    "name" : "package",
+    "value" : "Delete User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eea1e714881388c8.json",
+  "parameterValues" : [ ]
+}

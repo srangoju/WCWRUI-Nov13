@@ -1,0 +1,62 @@
+{
+  "uid" : "bc6ca672a271f991",
+  "name" : "RejectReasonTest - It should update a Reject reason  Name",
+  "fullName" : "Reject Reason.RejectReasonTest - It should update a Reject reason  Name",
+  "historyId" : "6a2be6e9ab0b4b3304f3ff90c4dc4238",
+  "time" : {
+    "start" : 1605160607322,
+    "stop" : 1605160613655,
+    "duration" : 6333
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d595829583019e3c",
+      "name" : "Screenshot",
+      "source" : "d595829583019e3c.png",
+      "type" : "image/png",
+      "size" : 27010
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Reject Reason"
+  }, {
+    "name" : "testClass",
+    "value" : "Reject Reason"
+  }, {
+    "name" : "testMethod",
+    "value" : "RejectReasonTest - It should update a Reject reason  Name"
+  }, {
+    "name" : "package",
+    "value" : "Reject Reason"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bc6ca672a271f991.json",
+  "parameterValues" : [ ]
+}

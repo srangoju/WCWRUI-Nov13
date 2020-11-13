@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1605157733079' stop='1605157781140'>
+    <name>Delete Court</name>
+    <title>Delete Court</title>
+    <test-cases>
+        <test-case start='1605157733079' status='passed' stop='1605157781140'>
+            <name>DeleteCourt - It should Delete Court!</name>
+            <title>DeleteCourt - It should Delete Court!</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e532e15b-e708-428a-ad32-f95605b3a36e-attachment.png' type='image/png' size='53259'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

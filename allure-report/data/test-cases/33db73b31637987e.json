@@ -1,0 +1,62 @@
+{
+  "uid" : "33db73b31637987e",
+  "name" : "AdminUpdateExistingUserTest - It should Update existing Case Manager",
+  "fullName" : "Users.AdminUpdateExistingUserTest - It should Update existing Case Manager",
+  "historyId" : "2c2b34904e34da1cb12090940111761d",
+  "time" : {
+    "start" : 1605160411254,
+    "stop" : 1605160431761,
+    "duration" : 20507
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "306a1596cf6d4d09",
+      "name" : "Screenshot",
+      "source" : "306a1596cf6d4d09.png",
+      "type" : "image/png",
+      "size" : 70900
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Users"
+  }, {
+    "name" : "testClass",
+    "value" : "Users"
+  }, {
+    "name" : "testMethod",
+    "value" : "AdminUpdateExistingUserTest - It should Update existing Case Manager"
+  }, {
+    "name" : "package",
+    "value" : "Users"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33db73b31637987e.json",
+  "parameterValues" : [ ]
+}

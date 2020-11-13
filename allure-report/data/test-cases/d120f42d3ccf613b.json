@@ -1,0 +1,46 @@
+{
+  "uid" : "d120f42d3ccf613b",
+  "name" : "AdminAddsCaseTypeTest - It should Add New Case SubType",
+  "fullName" : "Add CaseType.AdminAddsCaseTypeTest - It should Add New Case SubType",
+  "historyId" : "559645257293e9405c254bef8bffb9a4",
+  "time" : {
+    "start" : 1604371190601,
+    "stop" : 1604371193142,
+    "duration" : 2541
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Type Already Exist' to equal 'Type updated/added'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\X013810\\.jenkins\\WCWRUIAutomation\\WCWRUI\\Tests\\Admin\\UC_AD_10\\adminAddsCaseTypeTest.js:36:56)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add CaseType"
+  }, {
+    "name" : "testClass",
+    "value" : "Add CaseType"
+  }, {
+    "name" : "testMethod",
+    "value" : "AdminAddsCaseTypeTest - It should Add New Case SubType"
+  }, {
+    "name" : "package",
+    "value" : "Add CaseType"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d120f42d3ccf613b.json",
+  "parameterValues" : [ ]
+}

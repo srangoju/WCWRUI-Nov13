@@ -1,0 +1,126 @@
+{
+  "uid" : "3d129ab27706fd87",
+  "name" : "UpdateKNOS Association - It should Update KNOS Association!",
+  "fullName" : "Update KNOS Relationship.UpdateKNOS Association - It should Update KNOS Association!",
+  "historyId" : "ccee1a15536fc5d01d42e0aaeedae2ec",
+  "time" : {
+    "start" : 1605160652920,
+    "stop" : 1605160660432,
+    "duration" : 7512
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b25e5d925160db6e",
+      "name" : "Screenshot",
+      "source" : "b25e5d925160db6e.png",
+      "type" : "image/png",
+      "size" : 43213
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Update KNOS Relationship"
+  }, {
+    "name" : "testClass",
+    "value" : "Update KNOS Relationship"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateKNOS Association - It should Update KNOS Association!"
+  }, {
+    "name" : "package",
+    "value" : "Update KNOS Relationship"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "11401fe6297cda79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604597281832,
+        "stop" : 1604597325215,
+        "duration" : 43383
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "4b8d34d8044a4657",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/4b8d34d8044a4657",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174057993,
+          "stop" : 1602174063207,
+          "duration" : 5214
+        }
+      }, {
+        "uid" : "9778c5793765cdf",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/9778c5793765cdf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174057993,
+          "stop" : 1602174063207,
+          "duration" : 5214
+        }
+      }, {
+        "uid" : "25da647828381f10",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/25da647828381f10",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174057993,
+          "stop" : 1602174063207,
+          "duration" : 5214
+        }
+      }, {
+        "uid" : "7429495521336cd0",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/7429495521336cd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601910920039,
+          "stop" : 1601910978943,
+          "duration" : 58904
+        }
+      }, {
+        "uid" : "20cce7ccbce49179",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/20cce7ccbce49179",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601910920039,
+          "stop" : 1601910978943,
+          "duration" : 58904
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3d129ab27706fd87.json",
+  "parameterValues" : [ ]
+}

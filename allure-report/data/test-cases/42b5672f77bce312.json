@@ -1,0 +1,46 @@
+{
+  "uid" : "42b5672f77bce312",
+  "name" : "DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down",
+  "fullName" : "Delete KNOS Relationship.DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down",
+  "historyId" : "e0bef75bba4d6fefe4d83c9c9cf56242",
+  "time" : {
+    "start" : 1604597384120,
+    "stop" : 1604597384738,
+    "duration" : 618
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: No element found using locator: By(xpath, /html/body/app-root/div/div/div[1]/ul[1]/li[3]/a/i)",
+  "statusTrace" : "NoSuchElementError: No element found using locator: By(xpath, /html/body/app-root/div/div/div[1]/ul[1]/li[3]/a/i)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:814:27\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)Error\n                    at ElementArrayFinder.applyAction_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:459:27)\n                    at ElementArrayFinder.<computed> [as click] (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:91:29)\n                    at ElementFinder.<computed> [as click] (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:831:22)\n                    at UserContext.<anonymous> (C:\\Users\\X013810\\.jenkins\\WCWRUIAutomation\\WCWRUI\\Tests\\Admin\\UC_AD_18_Deletes_KNOS_Code_Association\\DeleteKNOSTest.js:37:29)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                From: Task: Run it(\"DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down\") in control flow\n                    at UserContext.<anonymous> (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:64:48\n                    at ControlFlow.emit (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n                    at ControlFlow.shutdown_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (C:\\Users\\X013810\\.jenkins\\WCWRUIAutomation\\WCWRUI\\Tests\\Admin\\UC_AD_18_Deletes_KNOS_Code_Association\\DeleteKNOSTest.js:35:2)\n                    at addSpecsToSuite (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (C:\\Users\\X013810\\.jenkins\\WCWRUIAutomation\\WCWRUI\\Tests\\Admin\\UC_AD_18_Deletes_KNOS_Code_Association\\DeleteKNOSTest.js:9:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n                    at Module.load (internal/modules/cjs/loader.js:985:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:878:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "testClass",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down"
+  }, {
+    "name" : "package",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "42b5672f77bce312.json",
+  "parameterValues" : [ ]
+}

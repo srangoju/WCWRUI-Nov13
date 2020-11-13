@@ -1,0 +1,62 @@
+{
+  "uid" : "c8062bca4cb69e8a",
+  "name" : "Admin - It should add adminUser",
+  "fullName" : "Users.Admin - It should add adminUser",
+  "historyId" : "a434077bb554fa3352191da88466856a",
+  "time" : {
+    "start" : 1605160311862,
+    "stop" : 1605160364451,
+    "duration" : 52589
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d8fd427c260e7e28",
+      "name" : "Screenshot",
+      "source" : "d8fd427c260e7e28.png",
+      "type" : "image/png",
+      "size" : 57520
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Users"
+  }, {
+    "name" : "testClass",
+    "value" : "Users"
+  }, {
+    "name" : "testMethod",
+    "value" : "Admin - It should add adminUser"
+  }, {
+    "name" : "package",
+    "value" : "Users"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c8062bca4cb69e8a.json",
+  "parameterValues" : [ ]
+}

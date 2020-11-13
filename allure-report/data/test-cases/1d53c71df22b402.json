@@ -1,0 +1,131 @@
+{
+  "uid" : "1d53c71df22b402",
+  "name" : "ValidationsTest - It should create new Role",
+  "fullName" : "Validations for Add New Role.ValidationsTest - It should create new Role",
+  "historyId" : "e840186abd1a11e665a0254440e7a44f",
+  "time" : {
+    "start" : 1605160542015,
+    "stop" : 1605160552658,
+    "duration" : 10643
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'The following Role : Super123 already exists.' to equal 'Role name or description cannot start or end with special characters'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\X013810\\.jenkins\\WCWRUIAutomation\\WCWRUI\\Tests\\Admin\\UC_AD_24_Roles\\ValidationTest.js:69:61)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'The following Role : Super123 already exists.' to equal 'Role name or description cannot start or end with special characters'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\X013810\\.jenkins\\WCWRUIAutomation\\WCWRUI\\Tests\\Admin\\UC_AD_24_Roles\\ValidationTest.js:69:61)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n                    at C:\\Users\\X013810\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "783c9c459f4adf9b",
+      "name" : "Screenshot",
+      "source" : "783c9c459f4adf9b.png",
+      "type" : "image/png",
+      "size" : 41820
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Validations for Add New Role"
+  }, {
+    "name" : "testClass",
+    "value" : "Validations for Add New Role"
+  }, {
+    "name" : "testMethod",
+    "value" : "ValidationsTest - It should create new Role"
+  }, {
+    "name" : "package",
+    "value" : "Validations for Add New Role"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 9,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "f8b7e205a6c90d45",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/f8b7e205a6c90d45",
+        "status" : "failed",
+        "statusDetails" : "Expected '' to equal 'Role name or description cannot start or end with special characters'.",
+        "time" : {
+          "start" : 1602173974762,
+          "stop" : 1602173978068,
+          "duration" : 3306
+        }
+      }, {
+        "uid" : "1af9102b164a1a1b",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/1af9102b164a1a1b",
+        "status" : "failed",
+        "statusDetails" : "Expected '' to equal 'Role name or description cannot start or end with special characters'.",
+        "time" : {
+          "start" : 1602173974762,
+          "stop" : 1602173978068,
+          "duration" : 3306
+        }
+      }, {
+        "uid" : "7ab1a1583edfc3ca",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/7ab1a1583edfc3ca",
+        "status" : "failed",
+        "statusDetails" : "Expected '' to equal 'Role name or description cannot start or end with special characters'.",
+        "time" : {
+          "start" : 1602173974762,
+          "stop" : 1602173978068,
+          "duration" : 3306
+        }
+      }, {
+        "uid" : "a0c753beec93c462",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/a0c753beec93c462",
+        "status" : "failed",
+        "statusDetails" : "Expected 'The following Role : Super123 already exists.' to equal 'Role name or description cannot start or end with special characters'.",
+        "time" : {
+          "start" : 1601954863524,
+          "stop" : 1601954866301,
+          "duration" : 2777
+        }
+      }, {
+        "uid" : "ffca5f084122be8f",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/ffca5f084122be8f",
+        "status" : "failed",
+        "statusDetails" : "Expected 'The following Role : Super123 already exists.' to equal 'Role name or description cannot start or end with special characters'.",
+        "time" : {
+          "start" : 1601954863524,
+          "stop" : 1601954866301,
+          "duration" : 2777
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "1d53c71df22b402.json",
+  "parameterValues" : [ ]
+}

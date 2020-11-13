@@ -1,0 +1,180 @@
+{
+  "uid" : "548a2042c3ba717a",
+  "name" : "DeleteKNOS Association - It should Delete KNOS Association!",
+  "fullName" : "Delete KNOS Relationship.DeleteKNOS Association - It should Delete KNOS Association!",
+  "historyId" : "c9199f61c60d7ef4ae1a303465f8df70",
+  "time" : {
+    "start" : 1605160660444,
+    "stop" : 1605160668995,
+    "duration" : 8551
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3bbaa8da96c7024a",
+      "name" : "Screenshot",
+      "source" : "3bbaa8da96c7024a.png",
+      "type" : "image/png",
+      "size" : 45454
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "testClass",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteKNOS Association - It should Delete KNOS Association!"
+  }, {
+    "name" : "package",
+    "value" : "Delete KNOS Relationship"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a23320625bc2133e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605113256404,
+        "stop" : 1605113304221,
+        "duration" : 47817
+      }
+    }, {
+      "uid" : "b5a6d56327742f1c",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <span class=\"ng-star-inserted\"> could not be scrolled into view\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605113042735,
+        "stop" : 1605113086016,
+        "duration" : 43281
+      }
+    }, {
+      "uid" : "fe2b167fddf2e695",
+      "status" : "failed",
+      "statusDetails" : "Failed: Wait timed out after 15008ms",
+      "time" : {
+        "start" : 1605112955925,
+        "stop" : 1605113008453,
+        "duration" : 52528
+      }
+    }, {
+      "uid" : "920aa5cbcb901a6b",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <span class=\"ng-star-inserted\"> could not be scrolled into view\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605112488059,
+        "stop" : 1605112531600,
+        "duration" : 43541
+      }
+    }, {
+      "uid" : "855289097707b8cb",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <span class=\"ng-star-inserted\"> could not be scrolled into view\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605112417092,
+        "stop" : 1605112457582,
+        "duration" : 40490
+      }
+    }, {
+      "uid" : "f6ef6fb4aee873c6",
+      "status" : "failed",
+      "statusDetails" : "Failed: Element <span class=\"ng-star-inserted\"> could not be scrolled into view\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'USE2DEVP1270', ip: '10.178.167.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1605069865035,
+        "stop" : 1605069869346,
+        "duration" : 4311
+      }
+    }, {
+      "uid" : "c780de126aeb67e1",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, /html/body/app-root/div/div/div[1]/ul[1]/li[9]/a/i)",
+      "time" : {
+        "start" : 1604597383989,
+        "stop" : 1604597384120,
+        "duration" : 131
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 9,
+        "unknown" : 0,
+        "total" : 9
+      },
+      "items" : [ {
+        "uid" : "40b755d064f7548f",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/22/allure/#testresult/40b755d064f7548f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174063212,
+          "stop" : 1602174067458,
+          "duration" : 4246
+        }
+      }, {
+        "uid" : "c53a0dc29a0cc0fe",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/21/allure/#testresult/c53a0dc29a0cc0fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174063212,
+          "stop" : 1602174067458,
+          "duration" : 4246
+        }
+      }, {
+        "uid" : "200d0a868d6a376a",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/20/allure/#testresult/200d0a868d6a376a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602174063212,
+          "stop" : 1602174067458,
+          "duration" : 4246
+        }
+      }, {
+        "uid" : "b61cb926a376643a",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/14/allure/#testresult/b61cb926a376643a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954946847,
+          "stop" : 1601954951762,
+          "duration" : 4915
+        }
+      }, {
+        "uid" : "c60e596748389a15",
+        "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/6/allure/#testresult/c60e596748389a15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601954946847,
+          "stop" : 1601954951762,
+          "duration" : 4915
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "548a2042c3ba717a.json",
+  "parameterValues" : [ ]
+}

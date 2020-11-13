@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:8080/jenkins/",
+  "buildOrder" : 17,
+  "buildName" : "WCWRUI_Jenkins #17",
+  "buildUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/17/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:8080/jenkins/job/WCWRUI_Jenkins/17/allure"
+} ]

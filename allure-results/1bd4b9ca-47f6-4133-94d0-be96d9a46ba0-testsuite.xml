@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1605160660444' stop='1605160684700'>
+    <name>Delete KNOS Relationship</name>
+    <title>Delete KNOS Relationship</title>
+    <test-cases>
+        <test-case start='1605160660444' status='passed' stop='1605160668995'>
+            <name>DeleteKNOS Association - It should Delete KNOS Association!</name>
+            <title>DeleteKNOS Association - It should Delete KNOS Association!</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='568384b2-afd3-4d0b-a543-9b9decd0edcf-attachment.png' type='image/png' size='45454'/>
+            </attachments>
+        </test-case>
+        <test-case start='1605160668995' status='passed' stop='1605160684700'>
+            <name>DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down</name>
+            <title>DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='435ab173-f47f-423e-a5e5-30e4d2459cb6-attachment.png' type='image/png' size='58509'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

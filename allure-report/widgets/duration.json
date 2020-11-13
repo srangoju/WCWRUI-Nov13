@@ -1,1 +1,351 @@
-[ ]
+[ {
+  "uid" : "548a2042c3ba717a",
+  "name" : "DeleteKNOS Association - It should Delete KNOS Association!",
+  "time" : {
+    "start" : 1605160660444,
+    "stop" : 1605160668995,
+    "duration" : 8551
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd8f6c402a950924",
+  "name" : "AdminUpdatesCaseSubType - It should update a Case sub type Name",
+  "time" : {
+    "start" : 1605160685888,
+    "stop" : 1605160686041,
+    "duration" : 153
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d129ab27706fd87",
+  "name" : "UpdateKNOS Association - It should Update KNOS Association!",
+  "time" : {
+    "start" : 1605160652920,
+    "stop" : 1605160660432,
+    "duration" : 7512
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d53c71df22b402",
+  "name" : "ValidationsTest - It should create new Role",
+  "time" : {
+    "start" : 1605160542015,
+    "stop" : 1605160552658,
+    "duration" : 10643
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b590405944630f6",
+  "name" : "RejectReasonTest - It should delete a random  Reason Name",
+  "time" : {
+    "start" : 1605160613655,
+    "stop" : 1605160619854,
+    "duration" : 6199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1759f2e2333f589b",
+  "name" : "createStateCourtTest - IT should create new State court",
+  "time" : {
+    "start" : 1605160446527,
+    "stop" : 1605160476580,
+    "duration" : 30053
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94015b0acae6ed7e",
+  "name" : "ValidationsTest - It should not create new role as the description is more thatn 1000 characters",
+  "time" : {
+    "start" : 1605160563312,
+    "stop" : 1605160574369,
+    "duration" : 11057
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6995860b8dbc7a9",
+  "name" : "AdminUpdateExistingUserTest - It should Update existing Admin User",
+  "time" : {
+    "start" : 1605160393942,
+    "stop" : 1605160411254,
+    "duration" : 17312
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2bbfa692b4e4cb1",
+  "name" : "AddNewRoleTest - It should Add New Role!",
+  "time" : {
+    "start" : 1605160534512,
+    "stop" : 1605160542015,
+    "duration" : 7503
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "afb99564b201ff7",
+  "name" : "ValidationsTest - It should not create new role as role name is more thatn 20 characters",
+  "time" : {
+    "start" : 1605160552658,
+    "stop" : 1605160563312,
+    "duration" : 10654
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "eea1e714881388c8",
+  "name" : "DeleteUserTest - It should make a user active/inactive",
+  "time" : {
+    "start" : 1605160431777,
+    "stop" : 1605160446512,
+    "duration" : 14735
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2d1d74095054a9f",
+  "name" : "Verify KNOS- Verifying relationship in Associate KNOS Codes drop down",
+  "time" : {
+    "start" : 1605160629627,
+    "stop" : 1605160645239,
+    "duration" : 15612
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b026c1c2deb1f98d",
+  "name" : "AdminDeletesCaseTypeTest - It should delete a random  Type Name",
+  "time" : {
+    "start" : 1605160685054,
+    "stop" : 1605160685208,
+    "duration" : 154
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8062bca4cb69e8a",
+  "name" : "Admin - It should add adminUser",
+  "time" : {
+    "start" : 1605160311862,
+    "stop" : 1605160364451,
+    "duration" : 52589
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "919687de36493b6b",
+  "name" : "Case Manager - It should add casemanager",
+  "time" : {
+    "start" : 1605160364451,
+    "stop" : 1605160393927,
+    "duration" : 29476
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "706368e458f8bff1",
+  "name" : "AdminAddsCaseSubTypeTest - It should Add New Case SubType without Entering value",
+  "time" : {
+    "start" : 1605160685540,
+    "stop" : 1605160685709,
+    "duration" : 169
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "205e41e22b75515d",
+  "name" : "rejectReasonTest - Add Reject Reason without reason name",
+  "time" : {
+    "start" : 1605160595003,
+    "stop" : 1605160599946,
+    "duration" : 4943
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95dbb50037b03651",
+  "name" : "RejectReasonTest - It should Add Reject Reason!",
+  "time" : {
+    "start" : 1605160599946,
+    "stop" : 1605160607322,
+    "duration" : 7376
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46889341577ddd4",
+  "name" : "CancelKNOS- It should cancel adding new casetype and subtype releationship to system!",
+  "time" : {
+    "start" : 1605160645239,
+    "stop" : 1605160652904,
+    "duration" : 7665
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a6f1f94d2cb6b6e",
+  "name" : "updateCourt - It should Update the Court Information!",
+  "time" : {
+    "start" : 1605160501088,
+    "stop" : 1605160523994,
+    "duration" : 22906
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a911252027f45e6",
+  "name" : "DeleteKNOS Association - Verifying relationship in Associate KNOS Codes drop down",
+  "time" : {
+    "start" : 1605160668995,
+    "stop" : 1605160684700,
+    "duration" : 15705
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d34672a5b24d554e",
+  "name" : "AdminAddsCaseTypeTest - It should Add New Case SubType",
+  "time" : {
+    "start" : 1605160684901,
+    "stop" : 1605160685054,
+    "duration" : 153
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc6ca672a271f991",
+  "name" : "RejectReasonTest - It should update a Reject reason  Name",
+  "time" : {
+    "start" : 1605160607322,
+    "stop" : 1605160613655,
+    "duration" : 6333
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1456cbcc032f094a",
+  "name" : "AdminAddsCaseSubTypeTest - It should Add New Case SubType",
+  "time" : {
+    "start" : 1605160685709,
+    "stop" : 1605160685888,
+    "duration" : 179
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f59453e037a94740",
+  "name" : "UpdateRole - It should Update the User Role!",
+  "time" : {
+    "start" : 1605160583103,
+    "stop" : 1605160594987,
+    "duration" : 11884
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e1607b5c0f8b581",
+  "name" : "AdminDeletesCaseTypeTest - It should delete a random  Type Name",
+  "time" : {
+    "start" : 1605160685371,
+    "stop" : 1605160685540,
+    "duration" : 169
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa595fb70e9fac9",
+  "name" : "createFederalCourtTest - IT should create new Federal court",
+  "time" : {
+    "start" : 1605160476595,
+    "stop" : 1605160501073,
+    "duration" : 24478
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33db73b31637987e",
+  "name" : "AdminUpdateExistingUserTest - It should Update existing Case Manager",
+  "time" : {
+    "start" : 1605160411254,
+    "stop" : 1605160431761,
+    "duration" : 20507
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cafb27591b95cf96",
+  "name" : "UpdateCourt - It should Update the Court Information!",
+  "time" : {
+    "start" : 1605113887401,
+    "stop" : 1605113934173,
+    "duration" : 46772
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "29d7e56ebc4125c4",
+  "name" : "AdminAddsCaseTypeTest - It should Add New Case Type without Entering value",
+  "time" : {
+    "start" : 1605160684707,
+    "stop" : 1605160684901,
+    "duration" : 194
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5e2663367cb84bb",
+  "name" : "DeleteCourt - It should Delete Court!",
+  "time" : {
+    "start" : 1605160524009,
+    "stop" : 1605160534497,
+    "duration" : 10488
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49c4c88f58738ad6",
+  "name" : "AdminUpdateCaseTypeTest1 - It should Update Case Type",
+  "time" : {
+    "start" : 1605160685223,
+    "stop" : 1605160685371,
+    "duration" : 148
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c468ae162e50994",
+  "name" : "ValidationsTest - It should not create new role as the role name contains special characters",
+  "time" : {
+    "start" : 1605160574369,
+    "stop" : 1605160583103,
+    "duration" : 8734
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ecdf27d1b0a691e8",
+  "name" : "AddNewKNOS- It should add new casetype and subtype releationship to system!",
+  "time" : {
+    "start" : 1605160619870,
+    "stop" : 1605160629627,
+    "duration" : 9757
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f7c5e8a94ff5e56",
+  "name" : "AdminDeletesCaseSubTypeTest - It should delete a Case Subtype",
+  "time" : {
+    "start" : 1605160686057,
+    "stop" : 1605160686188,
+    "duration" : 131
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
